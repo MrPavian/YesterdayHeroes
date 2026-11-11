@@ -4,7 +4,7 @@
 
 ## Aktueller Status
 
-Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden initial angelegt. In diesem Arbeitsschritt wurden die Zeitreise- und Realitätswechsel-Regeln verbindlich festgelegt und in den Story-Dokumenten konsolidiert. Es wurde keine Gameplay-Implementierung erstellt.
+Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden initial angelegt. Die Zeitreise- und Realitätswechsel-Regeln sind verbindlich festgelegt. Als nächster Story-Schritt wurde ein ausführlicher, noch nicht freigegebener Vorschlag für die fünf historischen Chronal-Anker erarbeitet. Es wurde keine Gameplay-Implementierung erstellt.
 
 ## Abgestimmte Eckpunkte
 
@@ -29,9 +29,10 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 
 - README und MASTER_CONTEXT
 - Story-Bibel-Grundstruktur, Haupthandlung und Opener-Entwurf
-- Neue verbindliche Datei `01_STORY/time_travel_rules.md`
+- Verbindliche Datei `01_STORY/time_travel_rules.md`
+- Entwurf `01_STORY/chronal_anchor_proposals.md` mit fünf historischen Bezugspunkten, vorgeschlagenen Handlungssträngen und Rätselmechaniken (D-003 noch nicht akzeptiert)
 - Aktualisierte World Bible, Main Plot, Timeline, Villain Bible und Opening Sequence
-- Aktualisierter Entscheidungslog mit D-002
+- Entscheidungslog mit D-001 und D-002 (accepted) sowie D-003 (proposed)
 - Charakter-, Episoden- und Game-Design-Indizes
 - Technische Bewertungsdokumente
 - Claude Master Prompt, Coding Rules und Task Template
@@ -40,16 +41,15 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 ## Nächste Schritte
 
 1. TASK 002: Dokumentation konsolidieren und Projekt-Governance bereinigen.
-2. D-003: Festlegen, welche historischen Ereignisse der Zielrealität mit unserer Realität übereinstimmen und welche abweichen.
-3. Die fünf Chronal-Anker mit konkreten historischen Knotenpunkten, Orten, Zeitpunkten und spielerischen Zielen ausarbeiten.
+2. D-003: Den Vorschlag für die historische Grundregel und die fünf Chronal-Anker abstimmen.
+3. Nach Freigabe die fünf Anker mit konkreten Szenen, Gegenständen und Rätselgraphen detailliert ausarbeiten.
 4. Charakterbibel und Antagonisten-Arcs vertiefen.
-5. Episoden planen und Rätselgraphen entwickeln.
+5. Episoden planen und episodenübergreifende Rätselketten entwickeln.
 6. Technischen Prototyp und Engine-Vergleich starten.
 
 ## Offene Entscheidungen
 
-- D-003: Historische Übereinstimmungen und Abweichungen der Zielrealität.
-- Konkrete Daten, Orte, Organisationen und Ereignisse für A-01 bis A-05.
+- D-003: Historische Grundregel und vorgeschlagene Bezugspunkte (Maastricht, CERN/Web, Honda P2, Iridium und Y2K) noch nicht freigegeben.
 - Finale Episodenanzahl und Reihenfolge (D-004).
 - Engine (Three.js oder Phaser) nach Prototypvergleich (D-005).
 - Exakte Auflösung und Grafikstil.
