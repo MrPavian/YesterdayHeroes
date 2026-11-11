@@ -39,3 +39,12 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - Exakte Auflösung und Grafikstil.
 - Three.js oder Phaser.
 - Inventarregeln und Charakterwechselmodell.
+
+
+## Asset-Sichtung — 2026-11-11
+- [x] 20 bisher auffindbare PNG-Referenzgrafiken aus dem Projektarchiv identifiziert und in ein strukturiertes Importpaket übernommen.
+- [x] Assets in Charakterbögen, Fahrzeugbogen, Sammel-Sheets und visuelle Roadmaps sortiert.
+- [x] Asset-README und Manifest in GitHub angelegt.
+- [ ] Bilddateien selbst ins Repository importieren (ZIP-Paket liegt als Download in der Chat-Sitzung bereit; GitHub-Connector hat hier keinen direkten Binärdatei-Upload aus dem Archivpfad).
+- [ ] Repository-Sichtbarkeit prüfen: Das Repository ist aktuell öffentlich; Fan-Art-Referenzgrafiken können Rechte Dritter berühren.
+- [ ] Fehlende Einzel-Sheets für Ghostbusters und Colt Seavers entwickeln.
