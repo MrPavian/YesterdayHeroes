@@ -1,7 +1,10 @@
 # Antagonisten — Donald J. und Elon M.
 
 ## Grundkonzept
-Zwei fiktive, satirisch überzeichnete Antagonisten, erkennbar inspiriert von öffentlichen Figuren der Gegenwart. Sie stammen aus dem Jahr 2026 und reisen mit einer Zeitmaschine zurück in die frühen 1990er-Jahre.
+
+Zwei fiktive, satirisch überzeichnete Antagonisten, erkennbar inspiriert von öffentlichen Figuren der Gegenwart. Sie stammen aus unserer Gegenwart 2026 und gelangen mit einer von Elon entwickelten Zeitmaschine in eine alternative Realität, in der sie das Jahr 1993 erreichen.
+
+In ihrer Herkunftsrealität sind die Helden von YESTERDAY HEROES bekannte Fernsehfiguren. Donald und Elon erkennen sie in der Zielrealität wieder und glauben, ihre Serienkenntnisse seien ein taktischer Vorteil. Tatsächlich kennen sie nur die fiktionalen Darstellungen, nicht die vollständigen Biografien, Motive oder tatsächlichen Fähigkeiten dieser realen Menschen. Ihre falschen Annahmen können zu komischen und gefährlichen Fehleinschätzungen führen.
 
 ## Donald J. — Der selbsternannte Imperator
 - Besessen von Macht, Ruhm, öffentlicher Bewunderung und monumentaler Selbstdarstellung.
@@ -9,6 +12,7 @@ Zwei fiktive, satirisch überzeichnete Antagonisten, erkennbar inspiriert von ö
 - Bevorzugt goldene Dekoration, große Inszenierungen und triumphale Auftritte.
 - Reagiert auf Widerspruch mit Drohungen, Manipulation und theatralischer Empörung.
 - Versteht die technische Funktionsweise der Zeitmaschine nicht im Detail, beansprucht aber gern die Idee für sich.
+- Kann versuchen, seine Serienkenntnisse über die Helden als persönliche Genialität auszugeben.
 
 ## Elon M. — Der digitale Weltenlenker
 - Besessen von Technologie, Automatisierung, Daten und Kontrolle.
@@ -16,6 +20,7 @@ Zwei fiktive, satirisch überzeichnete Antagonisten, erkennbar inspiriert von ö
 - Hält menschliche Unberechenbarkeit für ein Problem, das sich technisch beseitigen lässt.
 - Setzt KI, Robotik, Überwachung und futuristische Infrastruktur ein.
 - Entwickelt die Zeitmaschine und betrachtet Donald zunächst als politisches Werkzeug.
+- Glaubt, die Fernsehserien böten eine Art Verhaltensmodell der Helden; er unterschätzt, wie sehr Fiktion und Wirklichkeit auseinanderliegen.
 
 ## Beziehung
 - Zweckbündnis mit ständigem Streit.
