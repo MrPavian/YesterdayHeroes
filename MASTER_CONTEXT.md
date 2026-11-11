@@ -13,7 +13,11 @@
 
 Die Handlung spielt hauptsächlich in den 1990er-Jahren; 1993 ist das derzeit bevorzugte Startjahr.
 
-Donald J. und Elon M. kommen aus der Gegenwart 2026. Sie reisen mit einer von Elon entwickelten Zeitmaschine in die Vergangenheit. Ihr Ziel ist, entscheidende historische und technologische Entwicklungen zu manipulieren, um eine alternative Zukunft zu schaffen, in der sie die Welt beherrschen.
+Donald J. und Elon M. kommen aus unserer Gegenwart 2026. Sie reisen mit einer von Elon entwickelten Zeitmaschine nicht einfach in die Vergangenheit ihrer eigenen Welt, sondern in eine alternative Realität, deren Zeitlinie im Jahr 1993 erreicht wird. In ihrer Herkunftsrealität sind Michael Knight, das A-Team, MacGyver, ALF, Colt Seavers, die Ghostbusters und die weiteren Helden bekannte Fernsehfiguren. In der Zielrealität sind diese Figuren jedoch tatsächlich lebende Menschen mit eigenen Biografien, Beziehungen und realen Fähigkeiten.
+
+Donald und Elon erkennen die Helden aus den Fernsehserien ihrer Herkunftsrealität wieder. Sie glauben zunächst, die Figuren einschätzen und ihre vermeintlich bekannten Verhaltensweisen zu ihrem Vorteil nutzen zu können. Ihr Wissen stammt aber nur aus den fiktionalen Fernsehfassungen: Es ist unvollständig, dramaturgisch verzerrt und sagt nicht automatisch voraus, wie die echten Menschen in der Zielrealität handeln. Daraus entstehen Meta-Humor, Fehleinschätzungen und Überraschungen. Die Helden selbst wissen nicht, dass sie in einer anderen Realität als Fernsehfiguren dargestellt werden.
+
+Donald und Elon wollen entscheidende historische und technologische Entwicklungen der Zielrealität manipulieren, um eine Zukunft zu schaffen, in der sie die Welt beherrschen. Die genaue Beziehung zwischen Zeitreise und Realitätswechsel muss in den Zeitreise-Regeln noch konsistent ausgearbeitet werden.
 
 Donald ist der macht- und anerkennungsbesessene Selbstdarsteller. Elon ist der technokratische Kontrollfanatiker. Beide benötigen einander, streiten aber ständig und planen insgeheim, den jeweils anderen nach dem gemeinsamen Erfolg auszuschalten.
 
@@ -40,7 +44,7 @@ Das Spiel verbindet Episoden-Adventure und Hybridstruktur:
 - Später treffen Figuren und Teams aufeinander; der Spieler wechselt in passenden Abschnitten zwischen Helden.
 - Im Finale kommt das gesamte Ensemble zusammen. Die Menschheit steht vor einer scheinbar ausweglosen Bedrohung. Nur das Zusammenspiel aller Fähigkeiten kann Donald und Elon aufhalten.
 
-Der Opener zeigt Donald und Elon in einer geheimen Forschungsbasis im Jahr 2026. Elon präsentiert Donald die Zeitmaschine. Die beiden streiten bereits über Macht, Anerkennung, Technik und ihre künftige Rollenverteilung. Ein kurzer Blick auf Elons geheime Zusatzagenda und Donalds eigene Verratsabsichten kann foreshadowed werden. Danach folgt der Sprung ins Jahr 1993 und der Einstieg in die erste Heldenepisode.
+Der Opener zeigt Donald und Elon in einer geheimen Forschungsbasis im Jahr 2026. Elon präsentiert Donald die Zeitmaschine. Die beiden streiten bereits über Macht, Anerkennung, Technik und ihre künftige Rollenverteilung. Ihre Herkunftsrealität und ihre Kenntnis der Fernsehserien können durch eine kurze Szene oder ein Detail etabliert werden. Ein kurzer Blick auf Elons geheime Zusatzagenda und Donalds eigene Verratsabsichten kann foreshadowed werden. Danach folgt der Sprung in die alternative Realität des Jahres 1993 und der Einstieg in die erste Heldenepisode.
 
 ## 5. Rätseldesign
 
@@ -62,6 +66,7 @@ Verbindliche Prinzipien:
 - Figuren bleiben in ihrer eigenen Logik glaubwürdig.
 - Der Humor entsteht aus Charakterkontrasten, Dialogen und Situationen.
 - Spannung, echte Gefahr und emotionale Momente müssen neben der Komik bestehen können.
+- Meta-Humor entsteht aus dem Wissensvorsprung und den Fehleinschätzungen von Donald und Elon, nicht dadurch, dass die Helden selbst ihre Rolle als Fernsehfiguren kennen.
 
 ## 7. Technische Leitplanken
 
@@ -93,10 +98,10 @@ Keine unnötigen Frameworks einführen. Architektur modular und datengetrieben h
 
 ## 9. Status
 
-Das Repository startet als Dokumentations- und Konzeptbasis. Story, Episoden, Rätsel und technische Architektur befinden sich in der Vorproduktion. Noch nicht als endgültig festgeschrieben gelten insbesondere:
+Das Repository ist eine Dokumentations- und Konzeptbasis. Story, Episoden, Rätsel und technische Architektur befinden sich in der Vorproduktion. Noch nicht als endgültig festgeschrieben gelten insbesondere:
 - der vollständige Masterplan und die fünf historischen Eingriffe;
 - die endgültige Episodenanzahl und Reihenfolge;
-- die genaue Mechanik der Zeitmaschine;
+- die genaue Mechanik der Zeitmaschine und des Wechsels zwischen Realitäten;
 - der finale Plot-Twist;
 - Grafikstil, Engine und Zielauflösung.
 
