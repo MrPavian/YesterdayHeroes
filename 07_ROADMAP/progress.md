@@ -3,47 +3,61 @@
 **Letzte Aktualisierung:** 2026-11-11
 
 ## Aktueller Status
-Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden initial angelegt. In diesem Initialisierungsschritt wurde keine Gameplay-Implementierung erstellt.
+
+Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden initial angelegt. In diesem Arbeitsschritt wurden die Zeitreise- und Realitätswechsel-Regeln verbindlich festgelegt und in den Story-Dokumenten konsolidiert. Es wurde keine Gameplay-Implementierung erstellt.
 
 ## Abgestimmte Eckpunkte
+
 - Point-and-Click-Adventure im Geist von Monkey Island und Indiana Jones and the Fate of Atlantis.
 - Episoden-Adventure plus Hybridstruktur.
 - Einzelhelden-Abenteuer wachsen zu Teammissionen und einem großen Ensemble-Finale.
 - Helden: Michael Knight/KITT, A-Team, Airwolf, ALF, Colt Seavers, Ghostbusters, MacGyver.
 - Donald J. und Elon M. stammen aus unserer Gegenwart 2026.
 - In ihrer Herkunftsrealität sind die Helden bekannte Fernsehfiguren; in der alternativen Zielrealität des Jahres 1993 sind sie echte Menschen.
-- Donald und Elon kennen die Figuren aus Fernsehserien und überschätzen möglicherweise, wie gut sich die echten Menschen dadurch einschätzen lassen.
+- **D-002 accepted:** Elons Zeitmaschine heißt JANUS und nutzt getrennte Zeit- und Realitätskoordinaten.
+- **D-002 accepted:** Eine natürliche Chronal-Resonanz erklärt die Fernsehserien als unbewusste, dramaturgisch verfremdete Echos aus der Zielrealität.
+- **D-002 accepted:** Fünf Chronal-Anker, jeweils einer pro Säule von PROJECT TOMORROW, bilden gemeinsam das Chronal-Netz. Einzelne Reisen sind auch ohne Anker möglich.
+- Die fünf Säulen sind politische Ordnung, digitale Infrastruktur, Technologie und Automatisierung, globale Kommunikation sowie dauerhafte Machtsicherung.
+- Das Chronal-Netz soll eine dauerhafte Kopplung von Ziel- und Herkunftsrealität und die Ausdehnung der Kontrollarchitektur ermöglichen.
+- Meta-Humor entsteht aus der begrenzten und unzuverlässigen Serienkenntnis von Donald und Elon.
 - Sarkasmus, Slapstick, überraschende Wendungen und knifflige faire Rätsel.
 - Charakterfähigkeiten sollen die Rätselmechanik bestimmen.
 - A-Team-Konstruktionsrätsel mit einem improvisierten Panzer aus Traktor und Schrott ist ein gewünschtes Highlight.
 - Three.js ist angedacht; Phaser wird als 2D-Alternative geprüft.
 
-## Angelegte Dokumentation
+## Angelegte bzw. aktualisierte Dokumentation
+
 - README und MASTER_CONTEXT
-- Story-Bibel-Grundstruktur und Opener-Entwurf
+- Story-Bibel-Grundstruktur, Haupthandlung und Opener-Entwurf
+- Neue verbindliche Datei `01_STORY/time_travel_rules.md`
+- Aktualisierte World Bible, Main Plot, Timeline, Villain Bible und Opening Sequence
+- Aktualisierter Entscheidungslog mit D-002
 - Charakter-, Episoden- und Game-Design-Indizes
 - Technische Bewertungsdokumente
 - Claude Master Prompt, Coding Rules und Task Template
 - Entwicklungsroadmap und Fortschrittsübersicht
 
 ## Nächste Schritte
+
 1. TASK 002: Dokumentation konsolidieren und Projekt-Governance bereinigen.
-2. TASK 003: Weltregel und Zeitreise-Mechanik vertiefen, insbesondere Verhältnis zwischen Herkunftsrealität und Zielrealität.
-3. PROJECT TOMORROW und die fünf historischen Eingriffe ausarbeiten.
-4. Charakterbibel und Antagonisten-Arcs erstellen.
+2. D-003: Festlegen, welche historischen Ereignisse der Zielrealität mit unserer Realität übereinstimmen und welche abweichen.
+3. Die fünf Chronal-Anker mit konkreten historischen Knotenpunkten, Orten, Zeitpunkten und spielerischen Zielen ausarbeiten.
+4. Charakterbibel und Antagonisten-Arcs vertiefen.
 5. Episoden planen und Rätselgraphen entwickeln.
 6. Technischen Prototyp und Engine-Vergleich starten.
 
 ## Offene Entscheidungen
-- Exakte Zahl und Reihenfolge der Episoden.
-- Konkrete historische Eingriffe und die Frage, welche realen oder fiktiven Ereignisse der Zielrealität entsprechen.
-- Name und genaue technische Regeln der Zeitmaschine sowie des Realitätswechsels.
-- Finaler Plot-Twist und konkrete Auflösung.
+
+- D-003: Historische Übereinstimmungen und Abweichungen der Zielrealität.
+- Konkrete Daten, Orte, Organisationen und Ereignisse für A-01 bis A-05.
+- Finale Episodenanzahl und Reihenfolge (D-004).
+- Engine (Three.js oder Phaser) nach Prototypvergleich (D-005).
 - Exakte Auflösung und Grafikstil.
-- Three.js oder Phaser.
 - Inventarregeln und Charakterwechselmodell.
+- Konkrete visuelle Darstellung der Resonanz und finale Designausführung von JANUS.
 
 ## Asset-Sichtung — 2026-11-11
+
 - [x] 20 bisher auffindbare PNG-Referenzgrafiken aus dem Projektarchiv identifiziert und in ein strukturiertes Importpaket übernommen.
 - [x] Assets in Charakterbögen, Fahrzeugbogen, Sammel-Sheets und visuelle Roadmaps sortiert.
 - [x] Asset-README und Manifest in GitHub angelegt.
