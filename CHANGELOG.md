@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-11 — D-003: Vorschlag für die fünf Chronal-Anker erarbeitet
+- Neue Datei `01_STORY/chronal_anchor_proposals.md` mit fünf historischen Bezugspunkten, geheimen fiktiven Manipulationen, Helden-Schwerpunkten, Rätselansätzen und Finalmechanik angelegt.
+- Historische Eckdaten zu Maastricht, CERN/Web, Honda P2, Iridium und Y2K mit Primär- bzw. institutionellen Quellen hinterlegt.
+- Reale historische Ereignisse ausdrücklich von erfundenen Story-Eingriffen getrennt.
+- D-003 als `proposed` dokumentiert, nicht als akzeptiert. Die historische Grundregel, Schauplätze und Heldenzuordnungen benötigen weiterhin Freigabe.
+
 ## 2026-11-11 — D-002: JANUS und die Zeitreise-Mechanik verbindlich festgelegt
 - Elons Zeit- und Realitätsmaschine erhält den Namen JANUS.
 - Reisen benötigen zwei Koordinaten: einen Zeitpunkt und eine Zielrealität.
