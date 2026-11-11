@@ -10,7 +10,9 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - Episoden-Adventure plus Hybridstruktur.
 - Einzelhelden-Abenteuer wachsen zu Teammissionen und einem großen Ensemble-Finale.
 - Helden: Michael Knight/KITT, A-Team, Airwolf, ALF, Colt Seavers, Ghostbusters, MacGyver.
-- Donald J. und Elon M. reisen aus 2026 ins Jahr 1993.
+- Donald J. und Elon M. stammen aus unserer Gegenwart 2026.
+- In ihrer Herkunftsrealität sind die Helden bekannte Fernsehfiguren; in der alternativen Zielrealität des Jahres 1993 sind sie echte Menschen.
+- Donald und Elon kennen die Figuren aus Fernsehserien und überschätzen möglicherweise, wie gut sich die echten Menschen dadurch einschätzen lassen.
 - Sarkasmus, Slapstick, überraschende Wendungen und knifflige faire Rätsel.
 - Charakterfähigkeiten sollen die Rätselmechanik bestimmen.
 - A-Team-Konstruktionsrätsel mit einem improvisierten Panzer aus Traktor und Schrott ist ein gewünschtes Highlight.
@@ -25,21 +27,21 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - Entwicklungsroadmap und Fortschrittsübersicht
 
 ## Nächste Schritte
-1. Story-Masterplan vertiefen: fünf konkrete historische Eingriffe samt Ursache, Folge und Episodenbezug.
-2. Zeitreise-Regeln finalisieren.
-3. Charakterbibel ausarbeiten.
-4. Opener dramaturgisch finalisieren.
-5. Erst danach Episoden detailliert planen.
+1. TASK 002: Dokumentation konsolidieren und Projekt-Governance bereinigen.
+2. TASK 003: Weltregel und Zeitreise-Mechanik vertiefen, insbesondere Verhältnis zwischen Herkunftsrealität und Zielrealität.
+3. PROJECT TOMORROW und die fünf historischen Eingriffe ausarbeiten.
+4. Charakterbibel und Antagonisten-Arcs erstellen.
+5. Episoden planen und Rätselgraphen entwickeln.
 6. Technischen Prototyp und Engine-Vergleich starten.
 
 ## Offene Entscheidungen
 - Exakte Zahl und Reihenfolge der Episoden.
-- Konkrete historische Eingriffe.
-- Name und technische Regeln der Zeitmaschine.
+- Konkrete historische Eingriffe und die Frage, welche realen oder fiktiven Ereignisse der Zielrealität entsprechen.
+- Name und genaue technische Regeln der Zeitmaschine sowie des Realitätswechsels.
+- Finaler Plot-Twist und konkrete Auflösung.
 - Exakte Auflösung und Grafikstil.
 - Three.js oder Phaser.
 - Inventarregeln und Charakterwechselmodell.
-
 
 ## Asset-Sichtung — 2026-11-11
 - [x] 20 bisher auffindbare PNG-Referenzgrafiken aus dem Projektarchiv identifiziert und in ein strukturiertes Importpaket übernommen.
