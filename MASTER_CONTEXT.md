@@ -11,19 +11,45 @@
 
 ## 2. Kernprämisse
 
-Die Handlung spielt hauptsächlich in den 1990er-Jahren; 1993 ist das derzeit bevorzugte Startjahr.
+Die Handlung spielt hauptsächlich in den 1990er-Jahren; 1993 ist das verbindliche Ankunfts- und Startjahr.
 
-Donald J. und Elon M. kommen aus unserer Gegenwart 2026. Sie reisen mit einer von Elon entwickelten Zeitmaschine nicht einfach in die Vergangenheit ihrer eigenen Welt, sondern in eine alternative Realität, deren Zeitlinie im Jahr 1993 erreicht wird. In ihrer Herkunftsrealität sind Michael Knight, das A-Team, MacGyver, ALF, Colt Seavers, die Ghostbusters und die weiteren Helden bekannte Fernsehfiguren. In der Zielrealität sind diese Figuren jedoch tatsächlich lebende Menschen mit eigenen Biografien, Beziehungen und realen Fähigkeiten.
+Donald J. und Elon M. kommen aus unserer Gegenwart 2026. Sie reisen mit einer von Elon entwickelten Maschine namens **JANUS** nicht einfach in die Vergangenheit ihrer eigenen Welt, sondern in eine alternative Realität, deren Zeitlinie sie im Jahr 1993 erreichen. In ihrer Herkunftsrealität sind Michael Knight, das A-Team, MacGyver, ALF, Colt Seavers, die Ghostbusters und die weiteren Helden bekannte Fernsehfiguren. In der Zielrealität sind diese Figuren jedoch tatsächlich lebende Menschen mit eigenen Biografien, Beziehungen und realen Fähigkeiten.
 
-Donald und Elon erkennen die Helden aus den Fernsehserien ihrer Herkunftsrealität wieder. Sie glauben zunächst, die Figuren einschätzen und ihre vermeintlich bekannten Verhaltensweisen zu ihrem Vorteil nutzen zu können. Ihr Wissen stammt aber nur aus den fiktionalen Fernsehfassungen: Es ist unvollständig, dramaturgisch verzerrt und sagt nicht automatisch voraus, wie die echten Menschen in der Zielrealität handeln. Daraus entstehen Meta-Humor, Fehleinschätzungen und Überraschungen. Die Helden selbst wissen nicht, dass sie in einer anderen Realität als Fernsehfiguren dargestellt werden.
+Donald und Elon erkennen die Helden aus den Fernsehserien ihrer Herkunftsrealität wieder. Sie glauben zunächst, die Figuren einschätzen und ihre vermeintlich bekannten Verhaltensweisen zu ihrem Vorteil nutzen zu können. Ihr Wissen stammt aber nur aus fiktionalen Fernsehfassungen: Es ist unvollständig, dramaturgisch verzerrt und sagt nicht automatisch voraus, wie die echten Menschen in der Zielrealität handeln. Daraus entstehen Meta-Humor, Fehleinschätzungen und Überraschungen. Die Helden selbst wissen nicht, dass sie in einer anderen Realität als Fernsehfiguren dargestellt werden.
 
-Donald und Elon wollen entscheidende historische und technologische Entwicklungen der Zielrealität manipulieren, um eine Zukunft zu schaffen, in der sie die Welt beherrschen. Die genaue Beziehung zwischen Zeitreise und Realitätswechsel muss in den Zeitreise-Regeln noch konsistent ausgearbeitet werden.
+## 3. Verbindliche Zeitreise-Mechanik — D-002
 
-Donald ist der macht- und anerkennungsbesessene Selbstdarsteller. Elon ist der technokratische Kontrollfanatiker. Beide benötigen einander, streiten aber ständig und planen insgeheim, den jeweils anderen nach dem gemeinsamen Erfolg auszuschalten.
+JANUS arbeitet mit zwei voneinander unabhängigen Koordinaten:
+- **Zeitkoordinate:** der gewünschte Zeitpunkt.
+- **Realitätskoordinate:** die gewünschte Realität bzw. Zeitlinie.
 
-Die Bösewichte dürfen satirisch, grotesk, größenwahnsinnig und böse-komisch sein. Sie sind fiktive, überzeichnete Spielfiguren, inspiriert von öffentlichen Figuren. Keine erfundenen Behauptungen über reale Personen als Tatsachen darstellen.
+Eine Zeitangabe allein bestimmt kein vollständiges Reiseziel. Donald und Elon reisen aus ihrer Herkunftsrealität 2026 in eine alternative Realität und erreichen dort das Jahr 1993.
 
-## 3. Heldenensemble
+JANUS kann innerhalb einer kalibrierten Realität zu anderen Zeitpunkten springen und zwischen Realitäten wechseln, deren Resonanzsignatur bekannt und stabil genug ist. Die Herkunftsrealität ist als Rückkehrkoordinate gespeichert. Einzelne Sprünge sind bereits ohne Chronal-Anker möglich, kosten aber erhebliche Energie und belasten den Antrieb. JANUS ist kein unbegrenzt verfügbares Transportmittel und erzeugt keine Duplikate der Reisenden.
+
+Zwischen verwandten Realitäten besteht eine schwache natürliche **Chronal-Resonanz**. Sie existiert bereits vor JANUS. In der Herkunftsrealität gelangen seit Jahrzehnten gelegentlich fragmentarische Eindrücke aus der Zielrealität in die Wahrnehmung kreativer Menschen. Daraus entstehen unbewusst die Fernseh-Echos: fiktionale, dramaturgisch verfremdete Serien über tatsächliche Menschen und Ereignisse der anderen Realität. Die Serien sind keine Dokumentationen oder exakten Prophezeiungen. JANUS macht die Resonanz messbar und technisch nutzbar.
+
+### Die fünf Chronal-Anker
+
+Für PROJECT TOMORROW entwickeln Donald und Elon fünf **Chronal-Anker**. Jeder Anker wird an einem noch festzulegenden historischen Knotenpunkt installiert und einer Säule des Masterplans zugeordnet:
+
+1. Politische Ordnung und Machtverhältnisse
+2. Digitale Infrastruktur und Internet
+3. Technologie, Robotik und Automatisierung
+4. Globale Kommunikation und Informationskontrolle
+5. Dauerhafte Machtsicherung und institutionelle Kontrolle
+
+Ein einzelner Anker bietet begrenzten Einfluss auf seinen Bereich. Erst fünf korrekt platzierte und aktivierte Anker bilden gemeinsam das **Chronal-Netz**. Dieses stabilisiert und verstärkt JANUS' Resonanzfeld über zeitliche und räumliche Distanzen hinweg. Das Netz soll eine dauerhafte Kopplung der Zielrealität an die Herkunftsrealität ermöglichen und die Kontrollarchitektur von PROJECT TOMORROW über die Realitätsgrenze ausdehnen. Es geht nicht um eine simple physische Verschmelzung zweier Universen.
+
+Die konkreten historischen Ereignisse, Daten, Orte und Eingriffe sind noch offen. Die Zielrealität darf nicht ungeprüft mit unserer Geschichte gleichgesetzt werden.
+
+### Kontinuität bei Zeitlinienänderungen
+
+Ein aktivierter Anker verändert zunächst die Entwicklung seines jeweiligen Bereichs. Bereits erlebte Szenen der Helden werden nicht augenblicklich ausgelöscht. Die Helden behalten ihre Erinnerungen; es gibt keine willkürlichen Gedächtnis-Resets. Eingriffe müssen als nachvollziehbare Ursache-Wirkungs-Ketten erzählt werden. Das vollständige Chronal-Netz kann die langfristige Entwicklung beider Realitäten grundlegend verändern.
+
+Die ausführlichen Regeln stehen in `01_STORY/time_travel_rules.md`. Dieses Dokument ist für alle Details maßgeblich.
+
+## 4. Heldenensemble
 
 Verbindlich vorgesehen sind:
 - Michael Knight / KITT
@@ -36,17 +62,17 @@ Verbindlich vorgesehen sind:
 
 Cameos sind möglich. Die genannten Figuren sollen nicht bloß dekorativ auftreten: Ihre jeweiligen Fähigkeiten, Macken und Beziehungen müssen für Handlung, Rätsel oder Humor genutzt werden.
 
-## 4. Dramaturgie und Spielstruktur
+## 5. Dramaturgie und Spielstruktur
 
 Das Spiel verbindet Episoden-Adventure und Hybridstruktur:
 - Zu Beginn erhalten einzelne Helden eigene Episoden und abgeschlossene Abenteuer.
 - Hinweise, Gegenstände, Ereignisse und Entscheidungen verbinden die Episoden zunehmend.
 - Später treffen Figuren und Teams aufeinander; der Spieler wechselt in passenden Abschnitten zwischen Helden.
-- Im Finale kommt das gesamte Ensemble zusammen. Die Menschheit steht vor einer scheinbar ausweglosen Bedrohung. Nur das Zusammenspiel aller Fähigkeiten kann Donald und Elon aufhalten.
+- Im Finale kommt das gesamte Ensemble zusammen. Die Menschheit und die Freiheit zweier Realitäten stehen vor einer scheinbar ausweglosen Bedrohung. Nur das Zusammenspiel aller Fähigkeiten kann Donald und Elon aufhalten.
 
-Der Opener zeigt Donald und Elon in einer geheimen Forschungsbasis im Jahr 2026. Elon präsentiert Donald die Zeitmaschine. Die beiden streiten bereits über Macht, Anerkennung, Technik und ihre künftige Rollenverteilung. Ihre Herkunftsrealität und ihre Kenntnis der Fernsehserien können durch eine kurze Szene oder ein Detail etabliert werden. Ein kurzer Blick auf Elons geheime Zusatzagenda und Donalds eigene Verratsabsichten kann foreshadowed werden. Danach folgt der Sprung in die alternative Realität des Jahres 1993 und der Einstieg in die erste Heldenepisode.
+Der Opener zeigt Donald und Elon in einer geheimen Forschungsbasis im Jahr 2026 ihrer Herkunftsrealität. Elon präsentiert JANUS. Die Anzeige zeigt zwei Zielkoordinaten: Zeit und Realität. Eine kurze Archivsequenz etabliert, dass die Helden in ihrer Herkunftsrealität als Fernsehfiguren bekannt sind und dass die Serien merkwürdige Resonanzfragmente enthalten. PROJECT TOMORROW wird als Plan mit fünf Chronal-Ankern angedeutet. Danach folgt der Sprung in die alternative Realität des Jahres 1993 und der Einstieg in die erste Heldenepisode.
 
-## 5. Rätseldesign
+## 6. Rätseldesign
 
 Verbindliche Prinzipien:
 1. Knifflige, faire Rätsel mit nachvollziehbarer Logik.
@@ -58,8 +84,9 @@ Verbindliche Prinzipien:
 7. Keine unlösbaren Sackgassen und keine Lösungen, die ausschließlich auf willkürlichem Pixel-Hunting beruhen.
 8. Der Spieler soll Hinweise erhalten können, ohne dass Rätsel automatisch gelöst werden.
 9. Beispiel: Das A-Team wird in einer Lagerhalle eingeschlossen und baut aus einem alten Traktor, Schrott und gefundenen Bauteilen ein improvisiertes gepanzertes Fluchtfahrzeug. Der Spieler muss die Konstruktion selbst durch Erkundung und Kombinationsrätsel ermöglichen.
+10. Chronal-Anker müssen als eigenständige Rätselkomplexe funktionieren. Ihre Lösungen benötigen zuvor eingeführte Informationen, Gegenstände oder Charakterfähigkeiten; sie dürfen nicht zu fünf austauschbaren Schaltern werden.
 
-## 6. Tonalität
+## 7. Tonalität
 
 - Sarkastisch, pointiert und mit warmherziger Nostalgie.
 - Slapstick als Würze, nicht als Dauerzustand.
@@ -68,7 +95,7 @@ Verbindliche Prinzipien:
 - Spannung, echte Gefahr und emotionale Momente müssen neben der Komik bestehen können.
 - Meta-Humor entsteht aus dem Wissensvorsprung und den Fehleinschätzungen von Donald und Elon, nicht dadurch, dass die Helden selbst ihre Rolle als Fernsehfiguren kennen.
 
-## 7. Technische Leitplanken
+## 8. Technische Leitplanken
 
 Die technische Basis ist noch nicht endgültig entschieden. Three.js ist vom Projektinitiator vorgeschlagen; Phaser ist als Alternative für ein 2D-zentriertes Adventure zu prüfen.
 
@@ -82,7 +109,7 @@ TypeScript und Vite sind bevorzugte Kandidaten, aber die finale Stack-Entscheidu
 
 Keine unnötigen Frameworks einführen. Architektur modular und datengetrieben halten. Story-/Rätseldaten möglichst von Engine-Code trennen.
 
-## 8. Claude-Arbeitsregeln
+## 9. Claude-Arbeitsregeln
 
 - Vor jeder Aufgabe zuerst diese Datei und die konkret referenzierten Projektdokumente lesen.
 - Bestehende Dateien und Architektur untersuchen, bevor Änderungen vorgeschlagen werden.
@@ -96,15 +123,17 @@ Keine unnötigen Frameworks einführen. Architektur modular und datengetrieben h
 - Keine realen Markenlogos, Serienlogos oder kopierten Originalassets in neu erstellten Assets verwenden, solange keine entsprechenden Nutzungsrechte vorliegen.
 - Keine fremden geschützten Spielgrafiken, Musik, Dialoge oder Rätsellösungen kopieren.
 
-## 9. Status
+## 10. Status
 
-Das Repository ist eine Dokumentations- und Konzeptbasis. Story, Episoden, Rätsel und technische Architektur befinden sich in der Vorproduktion. Noch nicht als endgültig festgeschrieben gelten insbesondere:
-- der vollständige Masterplan und die fünf historischen Eingriffe;
-- die endgültige Episodenanzahl und Reihenfolge;
-- die genaue Mechanik der Zeitmaschine und des Wechsels zwischen Realitäten;
-- der finale Plot-Twist;
+Das Repository ist eine Dokumentations- und Konzeptbasis. Story, Episoden, Rätsel und technische Architektur befinden sich in der Vorproduktion. Verbindlich festgelegt sind D-001 (Herkunft und Realität der Helden) und D-002 (JANUS, Chronal-Resonanz, Fernseh-Echos und fünf Chronal-Anker).
+
+Noch offen sind insbesondere:
+- welche historischen Ereignisse der Zielrealität mit unserer Realität übereinstimmen oder abweichen;
+- die konkreten Knotenpunkte, Daten und Orte der fünf Chronal-Anker;
+- der genaue Verlauf der einzelnen Episoden und die Episodenreihenfolge;
+- die endgültige Ausgestaltung des Antagonisten-Verrats und des Finales;
 - Grafikstil, Engine und Zielauflösung.
 
-## 10. Arbeitsgrundsatz
+## 11. Arbeitsgrundsatz
 
 YESTERDAY HEROES soll ein echtes, in sich schlüssiges Adventure werden – nicht nur eine Aneinanderreihung nostalgischer Cameos. Story, Rätsel, Charaktere und Technik werden gemeinsam und iterativ entwickelt.
