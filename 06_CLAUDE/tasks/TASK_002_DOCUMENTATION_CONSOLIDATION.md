@@ -6,6 +6,7 @@ Du arbeitest als Documentation Lead und Technical Project Architect für YESTERD
 ## Pflichtlektüre
 Lies zuerst:
 - `MASTER_CONTEXT.md`
+- `DECISIONS.md`
 - `README.md`
 - sämtliche Markdown-Dateien unter `01_STORY` bis `07_ROADMAP`
 - `assets/README.md` und `assets/ASSET_MANIFEST.md`, falls vorhanden
@@ -16,7 +17,9 @@ Nutze außerdem den Auditbericht aus TASK 001, den der Projektinitiator bereitge
 Die Dokumentation soll widerspruchsfrei, navigierbar und als verlässliche Arbeitsgrundlage für Claude Code nutzbar sein. Diese Aufgabe ist ausschließlich Dokumentations- und Strukturarbeit. Keine Programmierung und keine neuen Story-Festlegungen.
 
 ## Verbindliche Einschränkungen
-- Keine endgültigen Entscheidungen zur Weltregel, Zeitreise-Mechanik, Historie, Episodenreihenfolge, Charakterwechsel, Grafikstil, Plattform oder Engine treffen.
+- Keine neuen endgültigen Entscheidungen zur Historie, Episodenreihenfolge, Charakterwechsel, Grafikstil, Plattform oder Engine treffen.
+- **D-001 und D-002 sind bereits ausdrücklich akzeptierte Entscheidungen.** Sie müssen in allen Dokumenten konsistent wiedergegeben und dürfen nicht als offen oder nur vorgeschlagen behandelt werden.
+- D-003 (historische Übereinstimmungen/Abweichungen und konkrete historische Knotenpunkte der fünf Chronal-Anker), D-004 (Episodenanzahl/-reihenfolge) und D-005 (Engine) bleiben offen.
 - Keine Figuren, Episoden, Rätsel oder historischen Ereignisse eigenmächtig als Kanon festlegen.
 - Keine vorhandenen Dokumente oder Assets löschen.
 - Keine Inhalte stillschweigend verkürzen. Bei Konflikten inhaltliche Abweichung dokumentieren und konservativ lösen.
@@ -40,9 +43,9 @@ Prüfe und korrigiere mindestens:
 - Asset-Erfassung: Unterscheide zwischen „Grafiken recherchiert/gefunden“, „Assetpaket lokal vorbereitet“, „Binärdateien tatsächlich im GitHub-Repository committed“ und „Assets technisch integriert“. Nichts als committed ausgeben, solange die PNG-Dateien nicht physisch im Repo liegen.
 - CHANGELOG: Ergänze nur tatsächlich erfolgte Dokumentationsänderungen.
 - Roadmap und progress.md: Status muss exakt übereinstimmen.
-- Zeitraum: Vereinheitliche die Formulierung. Bis zur Entscheidung soll 1993 als geplanter Startpunkt und der weitere Zeitraum als offen gekennzeichnet bleiben.
+- Zeitraum: Weise 1993 als verbindliches Ankunfts- und Startjahr aus; weitere Zeitpunkte und die Geschichte der Zielrealität bleiben offen.
 - Episodenreihenfolge: Der Opener führt aktuell zu Michael Knight. Weise dies als derzeitigen Entwurf aus, nicht als unumkehrbare Festlegung der gesamten Reihenfolge.
-- Five Pillars / Episoden: Klar kennzeichnen, dass eine Zuordnung erst entwickelt werden muss.
+- Fünf Säulen / Chronal-Anker / Episoden: Klar kennzeichnen, dass eine Zuordnung konkreter Episoden und historischer Ereignisse erst entwickelt werden muss.
 - Inventar und Fairness: Gegenstände dürfen nicht so abgelegt oder verbraucht werden, dass ein später zwingend benötigtes Rätsel unlösbar wird. Markiere eine konkrete Inventarregel als noch offene Designentscheidung.
 - Indizes: READMEs müssen den tatsächlichen Dateibestand abbilden und „geplant“ nur für wirklich noch fehlende Dokumente verwenden.
 - Abschlussberichte: Ein einheitliches Format in Claude-Aufträgen verwenden.
@@ -67,7 +70,7 @@ Kennzeichne diese Liste als empfohlenen Vertical-Slice-Umfang, der noch vom Proj
 - Reduziere doppelte Claude-Regeltexte auf klare Quellenverweise.
 - Einheitliche Abschlussbericht-Struktur: Zusammenfassung, geänderte Dateien, Entscheidungen/Annahmen, Tests/Ergebnisse, Einschränkungen/offene Punkte, nächster Schritt.
 - Aktualisiere die README-Dateien in `04_GAME_DESIGN` und `05_TECHNICAL`.
-- Ergänze bei Bedarf ein `DECISIONS.md` im Repository-Stamm als Entscheidungslog mit Spalten: ID, Thema, Status (open/proposed/accepted/rejected), Entscheidung, Begründung, Datum. Übernimm keine offenen Vorschläge als akzeptierte Entscheidungen.
+- `DECISIONS.md` ist das zentrale Entscheidungslog. Übernimm keine offenen Vorschläge als akzeptierte Entscheidungen.
 - Ergänze ein kurzes Register offener Fragen, falls dies nicht bereits übersichtlich besteht.
 
 ### 5. Asset-Verfügbarkeit transparent dokumentieren
@@ -86,13 +89,14 @@ Kennzeichne diese Liste als empfohlenen Vertical-Slice-Umfang, der noch vom Proj
 ## Akzeptanzkriterien
 - [ ] Root-level `CLAUDE.md` vorhanden und kurz, eindeutig, ohne Regelduplikate.
 - [ ] Widersprüche aus TASK 001 geprüft und bereinigt oder begründet als offen markiert.
+- [ ] D-001 und D-002 werden durchgehend als akzeptiert behandelt.
 - [ ] Status von Assets präzise und wahrheitsgemäß.
 - [ ] Vertical-Slice-Definition an allen Stellen identisch.
 - [ ] README-Indizes stimmen mit tatsächlichen Dateien überein.
 - [ ] Einheitliche Abschlussbericht-Regel vorhanden.
 - [ ] Entscheidungslog und offener Fragenkatalog vorhanden oder vorhandene Äquivalente aktualisiert.
 - [ ] Roadmap, progress.md und CHANGELOG stimmen überein.
-- [ ] Keine Story-, Engine-, Plattform- oder Sichtbarkeitsentscheidung eigenmächtig getroffen.
+- [ ] Keine neuen Story-, Engine-, Plattform- oder Sichtbarkeitsentscheidungen eigenmächtig getroffen.
 - [ ] Dokumente gegengelesen; Links und relative Pfade geprüft.
 
 ## Abschlussbericht
