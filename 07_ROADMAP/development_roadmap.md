@@ -11,12 +11,12 @@
 - [ ] Branch-, Commit- und Pull-Request-Workflow festlegen
 
 ## Phase 1 — Storyentwicklung
-- [ ] Welt und Zeitreise-Regeln finalisieren
-- [ ] Masterplan von Donald und Elon ausarbeiten
-- [ ] Historische Eingriffe konkret und kausal festlegen
+- [x] Grundlegende Weltregel und Zeitreise-Mechanik festlegen (D-001 und D-002)
+- [ ] Masterplan von Donald und Elon in konkrete, kausale Handlungsschritte überführen
+- [ ] Historische Eingriffe und die fünf Chronal-Anker konkret und kausal festlegen (D-003)
 - [ ] Antagonisten-Arcs und geheime Zusatzagenden festlegen
 - [ ] Gesamtplot inklusive Finale vollständig planen
-- [ ] Kontinuitäts- und Zeitlinienlogik prüfen
+- [ ] Kontinuitäts- und Zeitlinienlogik anhand konkreter Ereignisse prüfen
 
 ## Phase 2 — Charakterbibel
 - [ ] Profile aller Hauptfiguren erstellen
