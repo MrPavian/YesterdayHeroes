@@ -9,6 +9,7 @@ Claude erhält klar abgegrenzte Aufgaben mit konkreten Akzeptanzkriterien.
 4. `07_ROADMAP/progress.md`
 
 ## Dokumente
+- `tasks/TASK_002_DOCUMENTATION_CONSOLIDATION.md` — Konsolidierung der Dokumentation und Projekt-Governance
 - `MASTER_PROMPT.md` — Rolle und allgemeine Arbeitsweise
 - `CODING_RULES.md` — technische Regeln
 - `TASK_TEMPLATE.md` — Vorlage für Einzelaufträge
