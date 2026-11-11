@@ -21,7 +21,7 @@ assets/
 
 Die bisher auffindbaren 20 PNG-Referenzgrafiken wurden in ein Importpaket sortiert. Die Bilddateien selbst sind noch **nicht in diesem Repository committed**. Das Paket muss in das Repository-Stammverzeichnis entpackt und anschließend committed werden.
 
-**Paket:** [YESTERDAY HEROES Asset Pack](sandbox:/mnt/data/yesterday_heroes_asset_pack.zip) (lokale Übergabedatei; nicht als GitHub-Datei verlinkt).
+**Importpaket:** Das ZIP-Paket wurde für den Import vorbereitet und in der Chat-Antwort bereitgestellt. Es ist keine GitHub-Datei und der Downloadpfad ist nur in dieser Sitzung verfügbar.
 
 ## Kategorien
 
