@@ -19,7 +19,8 @@ Knifflige, befriedigende Adventure-Rätsel mit überraschenden, aber fair vorber
 - Michael/KITT: Informationen analysieren, Systeme prüfen und Zugangsmöglichkeiten finden.
 - Ghostbusters: paranormale Phänomene messen, umlenken oder einfangen.
 - ALF: außerirdisches Wissen und unkonventionelle Perspektiven einsetzen.
-- Colt: Stunt- und Fahrzeugmanöver vorbereiten.
+- Colt: Stunt- und Fahrzeugmanöver vorbereiten, sichere Routen planen, Rigging und physische Hindernisse beurteilen.
+- Howie: Anschlussfehler, Markierungen und Ablaufabweichungen erkennen; Cue-Sheets und Produktionsunterlagen auswerten; Teamaktionen zeitlich koordinieren.
 - Airwolf-Team: Luftaufklärung, präzise Unterstützung und koordinierte Aktionen.
 
 ## Fairnessregeln
