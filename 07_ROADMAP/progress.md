@@ -32,6 +32,7 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - Verbindliche Datei `01_STORY/time_travel_rules.md`
 - Charakterprofile `02_CHARACTERS/colt_seavers.md` und `02_CHARACTERS/howie_munson.md`
 - Eigenes spielbares Duo-Kapitel `03_EPISODES/EP-COLTHOWIE_DER_LETZTE_TAKE.md` angelegt; Anbindung an A-04 und A-05 ergänzt
+- Ausgearbeitete Konzeptdossiers für A-01 (A-Team) und A-02 (MacGyver) liegen unter `03_EPISODES` vor; D-003 bleibt bis zur Freigabe des historischen Grundmodells ein Entwurf
 - Entwurf `01_STORY/chronal_anchor_proposals.md` mit fünf historischen Bezugspunkten, vorgeschlagenen Handlungssträngen und Rätselmechaniken (D-003 noch nicht akzeptiert)
 - Aktualisierte World Bible, Main Plot, Timeline, Villain Bible und Opening Sequence
 - Entscheidungslog mit D-001, D-002 und D-006 (accepted) sowie D-003 (proposed)
