@@ -25,6 +25,16 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - A-Team-Konstruktionsrätsel mit einem improvisierten Panzer aus Traktor und Schrott ist ein gewünschtes Highlight.
 - Three.js ist angedacht; Phaser wird als 2D-Alternative geprüft.
 
+## Grafik- und Animationsstandard — 2026-11-12
+
+- [x] Pixel-Art als verbindlichen Grafikstil festgelegt.
+- [x] Acht Bewegungsrichtungen (8-way) als verbindlichen Charakterstandard festgelegt.
+- [x] Produktionsspezifikation mit Frame-Richtmaßen, Pivot/Fußanker, Animationsbibliothek, Dateinamen, JSON-Konfiguration, Produktions-Gates und QA erstellt: `05_TECHNICAL/pixel_art_animation_standard.md`.
+- [x] B.A. Baracus als Pilotfigur festgelegt.
+- [ ] B.A.-Pilot produzieren: Pose Sheet, 8-way Idle/Walk, danach Run/Interact.
+- [ ] Technischen Vertical Slice mit Pixel-Snap, nearest-neighbor und 8-way-Facing umsetzen.
+- [ ] Engine anhand des Piloten vergleichen; Three.js/Phaser-Entscheidung bleibt offen.
+
 ## Charakter- und Asset-Inventar
 
 - [x] Zentrale serienübergreifende Übersicht mit Figuren, Fahrzeugen, Sheet-Status, Korrekturen und offenen Aufgaben erstellt: `02_CHARACTERS/CHARACTER_ROSTER.md`.
