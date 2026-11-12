@@ -12,3 +12,5 @@ Akzeptierte Entscheidungen und wichtige offene Beschlüsse. Ein Vorschlag gilt e
 - D-003: Der Vorschlag ist noch nicht vom Projektinitiator bestätigt. Historische Grundregel, Ankerereignisse, Schauplätze und Heldenzuordnungen bleiben offen.
 - D-004: Finale Episodenanzahl und Reihenfolge.
 - D-005: Engine (Three.js oder Phaser) nach Prototypvergleich.
+
+| D-006 | Colt Seavers und Howie Munson als vollwertiges Duo | accepted | Colt Seavers und sein Cousin Howie Munson werden gemeinsam als vollwertige Figuren in das Heldenensemble integriert. Colt bringt Stunt-, Fahrzeug-, Rigging- und Kopfgeldjäger-Erfahrung ein. Howie ist Stuntman in Ausbildung und erhält eine eigenständige spielerische Funktion über Kontinuitätsbeobachtung, Ablaufplanung und Team-Cue-Koordination. Beide erhalten ein eigenes Kapitel und tragen aktiv zu A-04 sowie zum Ensemble-Finale bei. | Das Duo erweitert das Ensemble um ein eigenständiges Gameplay-Paar: praktische Ausführung und Stuntplanung auf der einen, Beobachtung und Ablaufkoordination auf der anderen Seite. Howie bleibt nicht bloß Colts komischer Begleiter. | 2026-11-12 |
