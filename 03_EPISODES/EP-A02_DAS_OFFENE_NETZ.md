@@ -258,13 +258,29 @@ Im internen Projektordner findet MacGyver eine Bestell- bzw. Liefernotiz von Mer
 - Grundprinzip: Eine optionale Komfortschicht wird als zwingender Kontrollpunkt ausgegeben.
 - Chronal-Trace als Referenz, nicht als zwingend verbrauchbarer Gegenstand.
 
-## 9. Abschluss und Cliffhanger
+## 9. Rätselgraph und Abhängigkeiten
+
+Die Hauptroute ist:
+
+- Empfang / Gespräche → Zugang zur Dokumentation
+- Druckraum → PZ-A02-01 (Route-Log und Overhead-Folie)
+- PZ-A02-01 → PZ-A02-02 (MA-1 identifizieren und Zugang zum Wartungsgang)
+- PZ-A02-02 → PZ-A02-03 (unabhängigen Modemweg finden)
+- PZ-A02-03 → PZ-A02-04 (öffentlichen Webzugang ohne ATLAS nachweisen)
+- PZ-A02-04 → PZ-A02-05 (lokale Autorisierungsfunktion in Standby setzen)
+- Liefernotiz / interne Unterlagen → Maastricht-Verweis und Übergang zu A-01
+
+**Nicht-lineare Erkundung:** Die Räume Empfang, Demonstration und Druckraum können frei untersucht werden. Die Wartungszone wird erst nach dem Nachweis zur nicht genehmigten Leitung zugänglich. Ein früher Besuch des Serverraums blockiert nichts dauerhaft; der Spieler wird zurückgewiesen und erhält einen konkreten Hinweis auf den fehlenden Nachweis.
+
+**Optionale Reihenfolge:** Netzplan, Terminale und Gespräch mit Elise lassen sich in unterschiedlicher Reihenfolge untersuchen. Sobald eine Information gefunden wurde, wird sie im Notizbuch festgehalten.
+
+## 10. Abschluss und Cliffhanger
 
 Elise sieht den unabhängigen Webzugang auf dem Terminal. Kessler versucht, den Vorgang als bloßen Testfehler abzutun. MacGyver übergibt Elise das Protokoll, damit der private Gateway nicht als notwendige Komponente präsentiert werden kann.
 
 Beim Verlassen des Labors entdeckt MacGyver auf einer Liefernotiz den Maastricht-Verweis. Im letzten Bild pulsiert das entkoppelte Modul noch einmal ganz schwach – nicht als erneute Aktivierung, sondern als Hinweis, dass die Resonanzsignatur auch an anderen Orten existiert.
 
-## 10. Risiken und Fairnessprüfungen
+## 11. Risiken und Fairnessprüfungen
 
 - Keine Darstellung, dass CERN selbst eine geheime zentrale Internetkontrolle geplant habe.
 - Keine Darstellung des Web als Synonym für das gesamte Internet.
@@ -274,7 +290,7 @@ Beim Verlassen des Labors entdeckt MacGyver auf einer Liefernotiz den Maastricht
 - Wenn der Spieler den Serverraum zu früh betritt, muss Elise ihn zunächst zurückweisen, aber kein Gegenstand und kein Zustand darf verloren gehen.
 - Jede notwendige Information wird zusätzlich in MacGyvers Notizbuch festgehalten, sobald sie einmal entdeckt wurde.
 
-## 11. Testfälle
+## 12. Testfälle
 
 1. Spieler findet den Routen-Ausdruck, bevor er das Netzwerkdiagramm untersucht: Der Hinweis wird im Notizbuch gespeichert.
 2. Spieler versucht die Folie an einem falschen Hotspot: Charakterfeedback erklärt, dass sie zum Plan gehört.
@@ -284,7 +300,7 @@ Beim Verlassen des Labors entdeckt MacGyver auf einer Liefernotiz den Maastricht
 6. Der Leihprüfer wird am Episodenende automatisch zurückgegeben.
 7. Nach Episodenabschluss bleiben Chronal-Trace und Maastricht-Verweis dauerhaft im Storylog.
 
-## 12. Recherchegrundlagen
+## 13. Recherchegrundlagen
 
 - CERN, [A short history of the Web](https://home.cern/science/computing/the-birth-of-the-web/short-history-web/): Entwicklung des Web, frühe Browser/Server und Freigabe am 30. April 1993.
 - CERN, [The birth of the Web](https://home.cern/science/computing/the-birth-of-the-web): Hintergrund zum ersten Webserver und zur öffentlichen Freigabe.
