@@ -205,7 +205,7 @@ MacGyver erhält nach dem Beweis Zugang zum privaten Serverraum. Kessler ist ger
 
 Im Serverraum findet MacGyver die Chronal-Komponente: ein gekapseltes Modul, das die Autorisierungsabfragen mit einer ungewöhnlichen Resonanzsequenz versieht.
 
-**Rätsel PZ-A02-05: Die Resonanz entkoppeln**
+**Rätsel PZ-A02-05: Die Kontrollfunktion entkoppeln**
 
 **Ziel:** Die Autorisierungsfunktion des Ankers im privaten Dienst deaktivieren, ohne den unabhängigen Webzugang zu zerstören.
 
@@ -218,7 +218,7 @@ Im Serverraum findet MacGyver die Chronal-Komponente: ein gekapseltes Modul, das
 1. Resonanzsequenz mit den Zeitstempeln des Route-Logs vergleichen.
 2. Feststellen, dass die Sequenz nicht zum normalen Datenverkehr gehört, sondern bei jeder Autorisierung des ATLAS-Relays ausgelöst wird.
 3. Den offenen Weg aktiv lassen und ausschließlich die private Autorisierungsroutine in den Beobachtermodus setzen.
-4. Die Resonanzkopplung des Ankers fällt ab. Das physische Modul bleibt im Raum, aber es kann keine Zugriffsentscheidung mehr erzwingen.
+4. Die lokale Autorisierungsfunktion wird abgeschaltet. Der Resonator selbst wird nicht zerstört: Er fällt in einen energiearmen Standby-Zustand und bleibt als Chronal-Knoten vorhanden. Erst das vollständige Fünf-Anker-Netz könnte ihn später erneut ansprechen. So verhindert MacGyver die unmittelbare Kontrolle, ohne die Chronal-Spur aus der Zeit zu löschen.
 
 **Hinweise:**
 - Subtil: Die auffälligen Impulse erscheinen nur bei Autorisierungsabfragen.
