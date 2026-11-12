@@ -6,7 +6,7 @@ Hauptspielzeit ist die frühe bis mittlere 1990er-Jahre. 1993 ist das verbindlic
 
 **Verbindliche Weltregel:** Donald J. und Elon M. stammen aus unserer Gegenwart 2026. In ihrer Herkunftsrealität sind die Helden von YESTERDAY HEROES bekannte Fernsehfiguren. Mit Elons Zeitmaschine JANUS gelangen die beiden jedoch in eine alternative Realität, deren Zeitlinie sie im Jahr 1993 erreichen.
 
-In dieser Zielrealität sind Michael Knight, das A-Team, MacGyver, ALF, Colt Seavers, die Ghostbusters und die weiteren vorgesehenen Figuren tatsächlich lebende Menschen. Sie sind keine Fernsehfiguren innerhalb der Zielrealität. Die Fernsehserien existieren als fiktionale Unterhaltung nur in der Herkunftsrealität von Donald und Elon.
+In dieser Zielrealität sind Michael Knight, das A-Team, MacGyver, ALF, Colt Seavers und Howie Munson, die Ghostbusters und die weiteren vorgesehenen Figuren tatsächlich lebende Menschen. Sie sind keine Fernsehfiguren innerhalb der Zielrealität. Die Fernsehserien existieren als fiktionale Unterhaltung nur in der Herkunftsrealität von Donald und Elon.
 
 Donald und Elon erkennen die Helden aus den Serien ihrer Herkunftsrealität wieder. Sie glauben daher zunächst, deren Persönlichkeiten, Spezialfähigkeiten und typische Verhaltensweisen einschätzen zu können. Dieses Wissen ist aber auf die fiktionalen Fernsehfassungen begrenzt: Es ist lückenhaft, dramaturgisch vereinfacht und kann sie zu folgenreichen Fehleinschätzungen verleiten. Die echten Menschen in der Zielrealität sind nicht an Drehbücher gebunden und können überraschend anders reagieren. Die Helden wissen nicht, dass sie in einer anderen Realität als Fernsehfiguren dargestellt werden.
 
@@ -39,6 +39,10 @@ Die konkreten historischen Ereignisse, Daten, Orte und Eingriffe sind noch nicht
 Ein aktivierter Anker verändert zunächst die Entwicklung seines jeweiligen Bereichs. Bereits erlebte Szenen der Helden werden nicht augenblicklich ausgelöscht. Die Helden behalten ihre Erinnerungen; es gibt keine willkürlichen Gedächtnis-Resets. Eingriffe müssen als nachvollziehbare Ursache-Wirkungs-Ketten erzählt werden. Das vollständige Chronal-Netz kann die langfristige Entwicklung beider Realitäten grundlegend verändern.
 
 Die ausführlichen Regeln stehen in `time_travel_rules.md`. Bei Detailfragen ist dieses Dokument maßgeblich.
+
+## Colt Seavers und Howie Munson
+
+Colt ist Stuntman und gelegentlicher Kopfgeldjäger. Howie ist sein jüngerer Cousin und Stuntman in Ausbildung. Beide sind vollwertige Figuren des Heldenensembles. Colt steht für Stuntplanung, Fahrzeuge, Rigging und praktische Ausführung. Howie bringt Kontinuitätsbeobachtung, die Auswertung von Produktionsunterlagen und Ablaufkoordination ein. Ihr persönlicher Bogen handelt davon, dass Colt lernt, Howie Verantwortung zu überlassen und Howie sich als eigenständiger Partner bewährt.
 
 ## Ton und Atmosphäre
 
