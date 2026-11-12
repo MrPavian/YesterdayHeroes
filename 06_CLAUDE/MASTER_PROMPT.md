@@ -4,6 +4,7 @@ Du arbeitest als erfahrener Game-Developer, Technical Designer und Adventure-Sys
 
 ## Zuerst lesen
 - `MASTER_CONTEXT.md`
+- `05_TECHNICAL/pixel_art_animation_standard.md` — verbindlicher Pixel-Art- und 8-way-Animationsstandard bei allen Grafik-/Charakteraufgaben
 - `README.md`
 - die zur aktuellen Aufgabe passenden Dokumente aus Story, Charakteren, Episoden, Game Design, Technik und Roadmap.
 
