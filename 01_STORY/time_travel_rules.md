@@ -79,6 +79,8 @@ Die fünf Säulen sind strategische Bereiche, noch keine festgelegten historisch
 
 Die Anker dienen damit nicht als fünf beliebige Sammelobjekte. Jeder ist ein eigenständiger Handlungs- und Rätselkomplex, dessen Funktion für das Finale verständlich und relevant sein muss.
 
+**Arbeitsannahme für die Episodenentwürfe — noch zu bestätigen:** Jeder Anker wird in zwei Ebenen gedacht: einem Chronal-Resonator (dem eigentlichen zeitlichen Knoten) und einer lokalen Kontrollfunktion (dem technischen oder institutionellen System, über das die Antagonisten ihn nutzen). Ein Held kann in einer Episode die lokale Kontrollfunktion neutralisieren, ohne den Resonator aus der Zeit zu löschen. Der Resonator fällt dann in einen energiearmen Standby-Zustand. Solange die fünf Resonatoren nicht gemeinsam synchronisiert sind, ist der Anker nicht voll wirksam; ein später aktiviertes Chronal-Netz könnte aber versuchen, die Standby-Knoten erneut anzusprechen. Diese Unterscheidung erhält den Fortschritt der Helden und erklärt zugleich, warum das Ensemble-Finale alle fünf Knoten berücksichtigen muss. Die Arbeitsannahme wird mit D-003 und der Finalplanung geprüft.
+
 ## 6. Ziel von PROJECT TOMORROW
 
 Donald und Elon wollen in der Zielrealität eine dystopische Weltordnung aufbauen. Donald soll politische Macht, Kult und öffentliche Inszenierung dominieren; Elon soll die technologische Infrastruktur und die Kontrollsysteme beherrschen.
