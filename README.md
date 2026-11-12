@@ -27,7 +27,7 @@ Die Handlung beginnt mit getrennten Episoden und einzelnen Heldenabenteuern. Die
 
 - Michael Knight und KITT
 - Das A-Team: Hannibal, B.A., Face und Murdock
-- Airwolf: Stringfellow Hawke und Dominic Santini
+- Airwolf: Stringfellow Hawke, Dominic Santini, Archangel und Caitlin O’Shannessy
 - ALF
 - The Fall Guy: Colt Seavers und Howie Munson
 - Ghostbusters: Peter Venkman, Ray Stantz, Egon Spengler und Winston Zeddemore
@@ -37,9 +37,13 @@ Colt und Howie sind als Duo vollwertige Ensemble-Mitglieder: Colt übernimmt Stu
 
 ## Antagonisten
 
-**Donald J. und Elon M.** sind satirisch überzeichnete, fiktive Spielfiguren, die erkennbar von öffentlichen Personen inspiriert sind. Sie kommen aus der Gegenwart 2026 und reisen ins Jahr 1993.
+**Donald J. Trump und Elon Musk** sind satirisch überzeichnete, fiktive Spielfiguren, die von öffentlichen Personen inspiriert sind. Sie kommen aus der Gegenwart 2026 und reisen ins Jahr 1993.
 
 Sie verfolgen einen gemeinsamen Plan zur Kontrolle der Weltgeschichte und zur Errichtung einer von ihnen dominierten Weltordnung. Gleichzeitig misstrauen sie einander und planen jeweils, den anderen langfristig auszuschalten.
+
+## Charakter- und Fahrzeugübersicht
+
+Der zentrale Arbeitsindex aller bisher beauftragten Figuren, Fahrzeuge, Grafik-Sheets, Korrekturen und offenen Aufgaben liegt unter [02_CHARACTERS/CHARACTER_ROSTER.md](02_CHARACTERS/CHARACTER_ROSTER.md).
 
 ## Geplanter Entwicklungsansatz
 
@@ -50,6 +54,7 @@ Claude wird als Entwicklungsassistent eingesetzt. Die Engine-Entscheidung (Three
 - [MASTER_CONTEXT.md](MASTER_CONTEXT.md) — verbindlicher Projektkontext für Claude
 - [Story-Bibel](01_STORY/README.md)
 - [Charaktere](02_CHARACTERS/README.md)
+- [Vollständiger Charakter- und Fahrzeug-Roster](02_CHARACTERS/CHARACTER_ROSTER.md)
 - [Episoden](03_EPISODES/README.md)
 - [Game Design](04_GAME_DESIGN/README.md)
 - [Technik](05_TECHNICAL/README.md)
