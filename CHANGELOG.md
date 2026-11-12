@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-12 — Charakter- und Fahrzeug-Roster konsolidiert
+- `02_CHARACTERS/CHARACTER_ROSTER.md` als zentrale Übersicht aller bisher beauftragten Figuren, Fahrzeuge, historischen Sheet-Nummern und offenen Korrekturen angelegt.
+- Charakterindex und Asset-Manifest verknüpft.
+- Nummerierungskonflikte aus der laufenden Grafikproduktion dokumentiert; stabile Dateinamen als Asset-IDs festgelegt.
+- Klargestellt, dass generierte Chat-Bilder erst nach tatsächlichem Binärdatei-Commit als Repository-Assets gelten.
+
 ## 2026-11-12 — Colt Seavers und Howie Munson integriert
 - D-006 als accepted ergänzt: Colt und Howie gehören als vollwertiges Duo zum Heldenensemble.
 - Eigenständige Charakterprofile für Colt und Howie angelegt.
@@ -8,8 +14,6 @@
 - Colts Rolle auf Stuntplanung, Fahrzeugmanöver, Rigging und Kopfgeldjäger-Erfahrung fokussiert.
 - Beide als aktive Mitwirkende in A-04 und im Ensemble-Finale verankert.
 - Master Context, World Bible, Main Plot, A-04-Vorschlag, Episoden- und Charakterindizes sowie Fortschrittsübersicht aktualisiert.
-
-# Changelog
 
 ## 2026-11-11 — D-003: Vorschlag für die fünf Chronal-Anker erarbeitet
 - Neue Datei `01_STORY/chronal_anchor_proposals.md` mit fünf historischen Bezugspunkten, geheimen fiktiven Manipulationen, Helden-Schwerpunkten, Rätselansätzen und Finalmechanik angelegt.
@@ -26,7 +30,7 @@
 - Das Netz soll eine dauerhafte Kopplung zwischen Ziel- und Herkunftsrealität ermöglichen und die Kontrollarchitektur der Antagonisten über die Realitätsgrenze ausdehnen.
 - Regeln zu Rückkehrkoordinate, Energieaufwand, Zeitlinienänderungen und Erinnerungen der Helden dokumentiert.
 - Neue Datei `01_STORY/time_travel_rules.md` angelegt.
-- DECISIONS, MASTER_CONTEXT, World Bible, Main Plot, Timeline, Villain Bible, Opening Sequence, Story-Index und Progress aktualisiert.
+- DECISIONS, MASTER_CONTEXT, World Bible, Main Plot, Timeline, Villain Bible, Opening Sequence, Story-Index und Progress entsprechend aktualisiert.
 - D-003 (historische Übereinstimmungen und Abweichungen) bleibt offen.
 
 ## 2026-11-11 — D-001: Weltregel festgelegt
