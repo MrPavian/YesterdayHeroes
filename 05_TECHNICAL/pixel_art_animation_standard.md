@@ -329,3 +329,52 @@ Bei jeder Charaktergrafik und Animation:
 8. Keine erfundenen oder stillschweigend ersetzten Richtungen/Frames.
 9. Vor Implementierung Engine-/Renderpfad in einem Vertical Slice testen.
 10. Bei Konflikten gilt dieses Dokument für Animationen; MASTER_CONTEXT und freigegebene Charakterprofile gelten für Story und Charakterkanon.
+
+
+## 1.1 Verbindliche Präzisierung: realistischer Adventure-Pixel-Art-Look
+
+**Neue visuelle Leitentscheidung (2026-11-12):** Die bisherigen B.A.-Animationsvorlagen sind stilistisch nicht freigegeben. Sie wirken zu gestaucht, zu comichaft und entfernen sich zu weit vom Master-Sheet. Diese Vorlagen dürfen nicht als Produktionsbasis oder als Maßstab für weitere Figuren verwendet werden.
+
+Ziel ist eine **realistische, handgepixelte Adventure-Grafik der klassischen 1990er-Jahre**, orientiert am visuellen Anspruch klassischer LucasArts-Adventures wie *Indiana Jones and the Fate of Atlantis* — ausdrücklich keine Übernahme konkreter Sprites, Figurenzeichnungen oder Hintergründe.
+
+Verbindliche Merkmale:
+- Anatomisch glaubwürdige menschliche Proportionen statt Chibi-, Super-Deformed- oder Cartoon-Körper.
+- Keine übergroßen Köpfe, verkürzten Beine, aufgeblasenen Hände oder vereinfachten Comic-Silhouetten.
+- Körpervolumen, Muskelgruppen, Kleidung und Falten werden durch gezielte Pixelcluster und abgestufte Schattierung modelliert.
+- Gesichter bleiben charakteristisch und ausdrucksstark, aber nicht karikaturhaft.
+- Konturen dürfen nicht pauschal als dicke schwarze Außenlinie ausgeführt werden.
+- Licht, Schatten, Material und Perspektive müssen eine glaubwürdige räumliche Form erzeugen.
+- Pixelkanten bleiben bewusst gesetzt; keine Weichzeichner, Anti-Aliasing-Halos oder automatischen Pixelierungsfilter.
+- Detailgrad und Pixelmaßstab müssen zur Spielauflösung passen. Nicht künstlich grob pixeln, nur damit die Pixel stärker auffallen.
+
+**Wichtig:** „Realistisch“ bedeutet hier glaubwürdige Proportionen, Volumen und Darstellung innerhalb einer handgepixelten Adventure-Ästhetik — keine fotorealistische Grafik und keine 3D-Render-Optik.
+
+## 6.1 B.A. Baracus — verbindliche Proportionssperre
+
+Das vom Projektinitiator gelieferte B.A.-Master-Sheet ist die maßgebliche Referenz. Die bisherigen generierten Animationsvorlagen sind wegen gestauchter, comichafter Proportionen verworfen.
+
+Bei jeder neuen B.A.-Pose müssen erhalten bleiben:
+- breite, massive Schulterpartie und kräftiger Brustkorb;
+- muskulöse, voluminöse Oberarme und Unterarme;
+- kräftiger, erwachsener Rumpf mit plausibler Taille;
+- lange, kräftige Beine im Verhältnis zum Oberkörper;
+- charakteristischer Kopf, Mohawk, Bart und Gesicht;
+- Jeansweste, rotes Shirt, goldene Ketten, Armbänder, olivgrüne Cargo-Hose und schwere Stiefel;
+- die erwachsene, gewichtige Körperwirkung des Master-Sheets.
+
+Keine pauschale Verkleinerung des Oberkörpers, keine Verkürzung der Beine und keine Vergrößerung des Kopfes. Die Figur muss in allen acht Richtungen dieselbe anatomische Identität behalten.
+
+Die Frame-Canvas wird **nicht vorab auf 48×64 oder 64×80 festgeschrieben**. Zuerst wird die Figur aus dem Master-Sheet in einer passenden Pixelgröße und mit realistischen Proportionen als Pose-/Scale-Referenz aufgebaut. Danach werden Canvas, Fußanker und Laufzeitgröße anhand eines In-Game-Vergleichs festgelegt.
+
+## 10.1 Korrektur des B.A.-Piloten
+
+Vor jeder weiteren Animationsproduktion:
+1. Die bisherigen gestauchten/comichaften B.A.-Vorlagen als **verworfen / nicht produktionsfähig** markieren.
+2. Das Original-Master-Sheet unverändert als Referenz verwenden.
+3. Eine maßstäbliche Front-, Rücken- und Profil-Analyse erstellen; Körperhöhe, Kopfgröße, Schulterbreite, Rumpf- und Beinlänge dokumentieren.
+4. Eine neue realistische Pixel-Art-Pose-Referenz erstellen, die den Proportionen des Master-Sheets folgt.
+5. Erst nach visueller Freigabe eine einzelne Idle-Pose und einen Walk-Keyframe in einer Richtung erstellen.
+6. Darstellung bei 1× und in der vorgesehenen Spielskalierung prüfen.
+7. Erst danach weitere Frames und die übrigen sieben Richtungen produzieren.
+
+**Abnahmekriterium:** Bei direktem Vergleich muss die animierte Figur eindeutig wie dieselbe Person aus dem Master-Sheet wirken. Bei Abweichungen in Statur, Kopf-/Körperverhältnis oder Kleidung ist das Asset abzulehnen — auch wenn die Animation technisch korrekt läuft.
