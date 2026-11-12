@@ -1,6 +1,6 @@
 # Project Progress
 
-**Letzte Aktualisierung:** 2026-11-11
+**Letzte Aktualisierung:** 2026-11-12
 
 ## Aktueller Status
 
@@ -11,7 +11,7 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - Point-and-Click-Adventure im Geist von Monkey Island und Indiana Jones and the Fate of Atlantis.
 - Episoden-Adventure plus Hybridstruktur.
 - Einzelhelden-Abenteuer wachsen zu Teammissionen und einem großen Ensemble-Finale.
-- Helden: Michael Knight/KITT, A-Team, Airwolf, ALF, Colt Seavers, Ghostbusters, MacGyver.
+- Helden: Michael Knight/KITT, A-Team, Airwolf, ALF, Colt Seavers und Howie Munson (The Fall Guy), Ghostbusters, MacGyver.
 - Donald J. und Elon M. stammen aus unserer Gegenwart 2026.
 - In ihrer Herkunftsrealität sind die Helden bekannte Fernsehfiguren; in der alternativen Zielrealität des Jahres 1993 sind sie echte Menschen.
 - **D-002 accepted:** Elons Zeitmaschine heißt JANUS und nutzt getrennte Zeit- und Realitätskoordinaten.
@@ -30,9 +30,11 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - README und MASTER_CONTEXT
 - Story-Bibel-Grundstruktur, Haupthandlung und Opener-Entwurf
 - Verbindliche Datei `01_STORY/time_travel_rules.md`
+- Charakterprofile `02_CHARACTERS/colt_seavers.md` und `02_CHARACTERS/howie_munson.md`
+- Eigenes spielbares Duo-Kapitel `03_EPISODES/EP-COLTHOWIE_DER_LETZTE_TAKE.md` angelegt; Anbindung an A-04 und A-05 ergänzt
 - Entwurf `01_STORY/chronal_anchor_proposals.md` mit fünf historischen Bezugspunkten, vorgeschlagenen Handlungssträngen und Rätselmechaniken (D-003 noch nicht akzeptiert)
 - Aktualisierte World Bible, Main Plot, Timeline, Villain Bible und Opening Sequence
-- Entscheidungslog mit D-001 und D-002 (accepted) sowie D-003 (proposed)
+- Entscheidungslog mit D-001, D-002 und D-006 (accepted) sowie D-003 (proposed)
 - Charakter-, Episoden- und Game-Design-Indizes
 - Technische Bewertungsdokumente
 - Claude Master Prompt, Coding Rules und Task Template
@@ -63,4 +65,4 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - [x] Asset-README und Manifest in GitHub angelegt.
 - [ ] Bilddateien selbst ins Repository importieren (ZIP-Paket liegt als Download in der Chat-Sitzung bereit; GitHub-Connector hat hier keinen direkten Binärdatei-Upload aus dem Archivpfad).
 - [ ] Repository-Sichtbarkeit prüfen: Das Repository ist aktuell öffentlich; Fan-Art-Referenzgrafiken können Rechte Dritter berühren.
-- [ ] Fehlende Einzel-Sheets für Ghostbusters und Colt Seavers entwickeln.
+- [ ] Fehlende Einzel-Sheets für Ghostbusters sowie Colt und Howie entwickeln.
