@@ -191,12 +191,12 @@ Nach dem Ausbruch findet das Team in der Sonderfracht eine Konferenzmappe und ei
 - **ITEM-A01-FORUM-PROGRAM** — Veranstaltungsprogramm.
 - **ITEM-A01-GUEST-LIST** — Gästeliste.
 - **ITEM-A01-EMPTY-BADGE** — leere Besuchermarke aus dem Logistiklager.
-- **ITEM-A01-TRANSLATOR-NOTE** — Notiz mit dem Ausfall eines Dolmetschers.
+- **ITEM-A01-STAFF-NOTE** — Personaleinsatznotiz mit Ausfall eines externen Koordinators.
 
 **Lösungsschritte:**
 1. Programm und Gästeliste vergleichen.
-2. Eine kurzfristige Lücke im Dolmetscherteam entdecken.
-3. Face nutzt die Identität eines nicht eingetroffenen externen Koordinators, dessen Fachgebiet in der Frachtmappe genannt wird.
+2. Eine kurzfristige Lücke im Team der externen Koordinatoren entdecken.
+3. Face nutzt die Identität eines nicht eingetroffenen externen Koordinators, dessen Aufgabenbereich zur Fracht und zur CSE-Demonstration passt.
 4. Das leere Badge wird mit der passenden Rolle versehen.
 5. Face erhält Zugang, muss aber im Gespräch mit Lydia Voss seine Geschichte konsistent halten.
 
@@ -206,9 +206,9 @@ Nach dem Ausbruch findet das Team in der Sonderfracht eine Konferenzmappe und ei
 - Murdock kann optional als übermotivierter Assistent auftreten und die Legende unterstützen oder beinahe ruinieren.
 
 **Hinweise:**
-- Subtil: Im Programm steht ein Dolmetscherplatz als unbesetzt.
-- Mittel: Die Gästeliste enthält einen externen Koordinator, dessen Rolle zur fehlenden Übersetzung passt.
-- Direkt: Nutze die Lücke im Dolmetscherteam als Zugang und fülle das Badge mit der passenden Funktion.
+- Subtil: Im Programm steht eine Koordinatorenstelle als unbesetzt.
+- Mittel: Die Gästeliste enthält einen externen Koordinator, dessen Aufgabenbereich zur CSE-Demonstration passt.
+- Direkt: Nutze die Lücke im Koordinatorenteam als Zugang und fülle das Badge mit der passenden Funktion.
 
 ### Szene 5 — Der Plan hinter dem Podium
 
@@ -229,7 +229,7 @@ Face dringt in den Konferenzbereich ein. Hannibal beobachtet von außen den Abla
 2. Das Demo-Skript beschreibt eine Freigabe durch einen Koordinator.
 3. Im technischen Anhang wird sichtbar, dass der technische Schlüssel allein eine Freigabe erzeugen kann, obwohl das Skript eine unabhängige Prüfung verspricht.
 4. Hannibal schließt daraus, dass der politische Teil nur Kulisse ist und der private technische Schlüssel die eigentliche Macht bündelt.
-5. Murdock erzeugt eine Ablenkung in der Dolmetscherkabine, damit B.A. in den Technikbereich gelangt.
+5. Murdock erzeugt eine Ablenkung im AV-Regieraum, damit B.A. in den Technikbereich gelangt.
 
 **Hinweise:**
 - Subtil: Das Skript spricht von zwei unabhängigen Freigaben, der technische Anhang zeigt aber nur ein Autorisierungsmodul.
@@ -242,7 +242,7 @@ Der Chronal-Anker befindet sich in einem privaten CSE-Kontrollmodul. Er besitzt 
 
 **Rätsel PZ-A01-05: Die doppelte Freigabe**
 
-**Ziel:** Die zentrale Alleinentscheidung in eine nicht autorisierende Beobachterstellung umwandeln und den Resonator entkoppeln.
+**Ziel:** Die lokale Autorisierungsfunktion in eine nicht autorisierende Beobachterstellung versetzen. Der Resonatorkern bleibt dabei in energiearmem Standby.
 
 **Benötigte Gegenstände/Informationen:**
 - **ITEM-A01-SPLIT-KEY** — zweiter mechanischer Freigabeschlüssel aus einem Ersatzteilfach.
@@ -256,7 +256,7 @@ Der Chronal-Anker befindet sich in einem privaten CSE-Kontrollmodul. Er besitzt 
 3. Face nutzt die Rolle des Koordinators, um im Demoablauf eine zweite Freigabe anzufordern.
 4. Murdock hält die Sicherheitsleute mit einer improvisierten Durchsage beschäftigt.
 5. Der Spieler setzt den Split-Key ein und stellt das Modul auf **DUAL OBSERVER** statt **SINGLE AUTHORITY**.
-6. Der Resonator verliert seine aktive Autorisierungsfunktion. Das Modul bleibt als technische Anlage erhalten, kann aber keine alleinige Krisenfreigabe mehr erzwingen.
+6. Die lokale Autorisierungsfunktion wird auf DUAL OBSERVER gesetzt. Der Resonatorkern bleibt intakt und fällt in energiearmen Standby; das Modul kann vor Ort keine alleinige Krisenfreigabe mehr erzwingen. Eine spätere Aktivierung durch das vollständige Chronal-Netz bleibt möglich.
 
 **Hinweise:**
 - Subtil: Das Skript verspricht zwei Freigaben, obwohl die aktuelle Konfiguration nur eine nutzt.
@@ -280,7 +280,7 @@ Der Chronal-Anker befindet sich in einem privaten CSE-Kontrollmodul. Er besitzt 
 | ITEM-A01-FORUM-PROGRAM | Konferenzprogramm | Zugang vorbereiten | Questgegenstand |
 | ITEM-A01-GUEST-LIST | Gästeliste | Face' Legende vorbereiten | Questgegenstand |
 | ITEM-A01-EMPTY-BADGE | Leeres Badge | Zugangsausweis erstellen | Verbrauchtes Szenenobjekt |
-| ITEM-A01-TRANSLATOR-NOTE | Dolmetschernotiz | Freie Rolle entdecken | Questgegenstand |
+| ITEM-A01-TRANSLATOR-NOTE | Personaleinsatznotiz | Freie Rolle entdecken | Questgegenstand |
 | ITEM-A01-DEMO-SCRIPT | Demo-Skript | Freigabelogik erkennen | Questgegenstand |
 | ITEM-A01-TECHNICAL-APPENDIX | Technischer Anhang | Manipulation nachweisen | Dauerhafter Beleg |
 | ITEM-A01-ACCESS-SEQUENCE | Freigabesequenz | Modul konfigurieren | Questinformation |
