@@ -38,7 +38,7 @@
 ### ALF
 | Figur | Funktion | Grafikstatus |
 |---|---|---|
-| Gordon Shumway (ALF) | Außerirdischer aus Melmac | Mehrere Entwürfe vorhanden (#014); nur ein einzelnes, B.A-konformes Sheet als final festlegen |
+| Gordon Shumway (ALF) | Außerirdischer aus Melmac | Mehrere Entwürfe vorhanden (#014); nur ein einzelnes, B.A.-konformes Sheet als final festlegen |
 | Willie Tanner | Familienvater der Tanners | Sheet vorhanden (#015); Layoutkonformität prüfen |
 
 ### Airwolf
@@ -47,9 +47,9 @@
 | Stringfellow Hawke | Pilot von Airwolf | Sheet vorhanden (#016) |
 | Dominic Santini | Mechaniker, Pilot und Hawkes Partner | Sheet vorhanden (#017), aber ausdrücklich zu korrigieren: Ernest-Borgnine-Vorlage, älter/kräftiger, rundliches Gesicht, kurzes silbergraues Haar, **kein Schnurrbart**, korrekter Serienlook |
 | Michael “Archangel” Coldsmith Briggs III | Leiter des geheimen Airwolf-Programms | Sheet vorhanden (#018) |
-| Caitlin O’Shannessy | Pilotin und Airwolf-Teammitglied | Sheet vorhanden (#019 in der ursprünglichen Airwolf-Zählung) |
+| Caitlin O’Shannessy | Pilotin und Airwolf-Teammitglied | **Offen** — als Hauptfigur benannt, aber ein eigenständiges fertiges Sheet ist im bisherigen Verlauf nicht nachgewiesen |
 
-**Fahrzeug:** Airwolf-Hubschrauber — als separates Sheet vorgesehen, aber noch kein eindeutig abgenommenes Einzel-Sheet nachgewiesen (ursprünglich #020 offen).
+**Fahrzeug:** Airwolf-Hubschrauber — als separates Sheet vorgesehen, aber noch kein eindeutig abgenommenes Einzel-Sheet nachgewiesen.
 
 ### The Fall Guy
 | Figur | Funktion | Grafikstatus |
@@ -114,18 +114,19 @@ Das originale B.A.-Baracus-Sheet #001 ist die alleinige Master-Vorlage. Für all
 
 ## 5. Nummerierung und offene Korrekturen
 
-Die historische Sheet-Nummerierung ist nicht vollständig konsistent: #019 wurde zunächst für Caitlin O’Shannessy und später für Colt Seavers verwendet; #020 war zunächst als Airwolf-Fahrzeug vorgesehen und wurde später für Howie Munson verwendet. Bonnie Barstow tauchte als #009/#010 auf. April Curtis hat keine sicher belegte Nummer.
+Die historische Sheet-Nummerierung ist nicht vollständig konsistent: #019 wurde zunächst für Caitlin O’Shannessy vorgesehen und später für Colt Seavers verwendet; #020 war zunächst als Airwolf-Fahrzeug vorgesehen und wurde später für Howie Munson verwendet. Bonnie Barstow tauchte als #009/#010 auf. April Curtis hat keine sicher belegte Nummer.
 
 **Regel ab jetzt:** Keine alten Nummern überschreiben oder als eindeutige Asset-ID verwenden. Für Dateien stabile, sprechende Namen nutzen (z. B. `airwolf_dominic_santini.png`, `fall_guy_howie_munson.png`). Die Sheet-Nummer ist nur eine historische Produktionsreferenz.
 
 ### Noch offene Grafikaufgaben
-1. Howie Munson im unveränderten B.A.-Layout neu erstellen.
-2. Dominic Santini anhand der korrigierten Originalreferenz finalisieren.
-3. K.I.T.T. auf das B.A.-Masterlayout angleichen.
-4. ALF auf ein einziges finales, B.A.-konformes Einzel-Sheet festlegen.
-5. Airwolf als separates Fahrzeug-Sheet erstellen.
-6. Elon Musk als eigenständiges Sheet #028 exportieren; derzeit ist nur eine kombinierte Darstellung eindeutig belegt.
-7. Bilddateien der neuen und älteren Einzel-Sheets in `assets/reference-sheets/` committed ablegen. Die bisherigen PNG-Generierungen sind nicht automatisch Teil des Git-Repositories.
+1. Caitlin O’Shannessy als eigenständiges Sheet erstellen.
+2. Howie Munson im unveränderten B.A.-Layout neu erstellen.
+3. Dominic Santini anhand der korrigierten Originalreferenz finalisieren.
+4. K.I.T.T. auf das B.A.-Masterlayout angleichen.
+5. ALF auf ein einziges finales, B.A.-konformes Einzel-Sheet festlegen.
+6. Airwolf als separates Fahrzeug-Sheet erstellen.
+7. Elon Musk als eigenständiges Sheet #028 exportieren; derzeit ist nur eine kombinierte Darstellung eindeutig belegt.
+8. Bilddateien der neuen und älteren Einzel-Sheets in `assets/reference-sheets/` committed ablegen. Die bisherigen PNG-Generierungen sind nicht automatisch Teil des Git-Repositories.
 
 ## 6. Rechte- und Produktionshinweis
 
