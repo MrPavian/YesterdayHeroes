@@ -17,5 +17,12 @@ Die klassische Verb-Leiste kann als Referenz dienen: Anschauen, Benutzen, Aufheb
 ## Charakterwechsel
 In geeigneten Abschnitten kann der Spieler zwischen mehreren verfügbaren Helden wechseln. Charaktere besitzen unterschiedliche Fähigkeiten, Wissensstände und Dialogreaktionen.
 
+## Charaktergebundene Spielweisen — Colt und Howie
+
+Colt und Howie bilden ein gemeinsames, aber nicht austauschbares Gameplay-Duo:
+- Colt löst praktische Stunt-, Fahrzeug-, Rigging- und Verfolgungsaufgaben. Riskante Aktionen müssen vorbereitet und durch sichtbare Sicherheitsvoraussetzungen gestützt sein.
+- Howie löst Beobachtungs-, Kontinuitäts- und Ablaufaufgaben. Er vergleicht Markierungen, Takes, Zeitlisten und Cue-Sheets und kann daraus eine ausführbare Reihenfolge für Teamaktionen erstellen.
+- Kombinationsrätsel dürfen beide Fähigkeiten benötigen: Howie erkennt das Muster, Colt setzt den Plan körperlich um.
+
 ## Episodenübergreifender Fortschritt
 Storyflags, Gegenstandshistorie und gelöste Rätsel müssen persistiert und in späteren Episoden auswertbar sein.
