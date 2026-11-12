@@ -156,3 +156,20 @@ Für alle Charakter-Assets gelten insbesondere:
 - Richtwert für den ersten technischen Prototyp: virtuelle Auflösung 640×360, ganzzahlige Skalierung und nearest-neighbor Texturfilterung. Die endgültige Render-/Engine-Umsetzung wird im Vertical Slice validiert.
 
 Diese Grafikentscheidung legt Three.js oder Phaser nicht fest. Die Engine bleibt bis zum Prototypvergleich offen.
+
+
+## 5b. Verbindlicher Fahrzeug- und Cinematic-Standard
+
+**Entscheidung angenommen am 2026-11-12:** Fahrzeugsequenzen zielen auf ungefähr **50 % Inszenierung und 50 % direkte Spielerinteraktion**. Das ist ein dramaturgischer Richtwert, kein starres Zeitlimit. Keine reine Quick-Time-Event-Kette: Spieler sollen relevante Fahr-/Flugmanöver selbst steuern, Routen wählen und Spezialfähigkeiten einsetzen können. Cinematics sind überspringbar; Storyinformationen und Flags müssen danach konsistent bleiben.
+
+Der bestätigte Fahrzeugbestand umfasst genau sechs Fahrzeuge:
+- K.I.T.T.
+- F.L.A.G. Mobile Unit
+- A-Team-Van
+- Airwolf
+- GMC Sierra Grande / K-2500 Stunt-Truck von Colt Seavers
+- Ecto-1
+
+Die maßgebliche Inventar- und Produktionsliste steht in `05_TECHNICAL/vehicle_asset_inventory.md`. Die System- und Dramaturgiespezifikation steht in `05_TECHNICAL/vehicle_animation_cinematic_system.md`.
+
+K.I.T.T. ist der erste technische Fahrzeug-Pilot für eine interaktive Verfolgungssequenz. Airwolf benötigt zunächst ein freigegebenes eigenständiges Master-Sheet. Fahrzeuganimationen müssen individuelle Bewegungsprofile besitzen; acht Richtungen werden nicht pauschal für jedes Fahrzeug erzwungen. Engine und Rendering-Ansatz bleiben bis zum Vertical-Slice-Vergleich offen.
