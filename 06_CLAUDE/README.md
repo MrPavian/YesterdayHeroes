@@ -11,6 +11,8 @@ Claude erhält klar abgegrenzte Aufgaben mit konkreten Akzeptanzkriterien.
 ## Dokumente
 - `tasks/TASK_002_DOCUMENTATION_CONSOLIDATION.md` — Konsolidierung der Dokumentation und Projekt-Governance
 - `MASTER_PROMPT.md` — Rolle und allgemeine Arbeitsweise
+- `../05_TECHNICAL/pixel_art_animation_standard.md` — verbindlicher Pixel-Art-/8-way-Animationsstandard
+- `tasks/TASK_PIXEL_ART_PILOT_BA.md` — erster Produktionsauftrag für den B.A.-Pilot
 - `CODING_RULES.md` — technische Regeln
 - `TASK_TEMPLATE.md` — Vorlage für Einzelaufträge
 
