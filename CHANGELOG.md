@@ -6,6 +6,13 @@
 - Engine bleibt offen; Pixel-Snap, Nearest-Neighbor und 8-way-Facing werden im Vertical Slice validiert.
 
 # Changelog
+## 2026-11-12 — A-04: DER HIMMEL HÖRT MIT ausgearbeitet
+- Vollständiges Episodendossier für Michael/KITT, Hawke/Santini, Colt und Howie angelegt.
+- Reale Iridium-Architektur sauber von der fiktiven PSM-Zusatzebene getrennt: keine erfundene zentrale Steuerung sämtlicher Satelliten.
+- Fünf Rätselkomplexe, Team-Abhängigkeiten, Inventar/Flags, Fairness-Tests und Übergang zu A-05 dokumentiert.
+- Dossier in Episodenindex, Chronal-Anker-Vorschlag, Timeline und Fortschritt eingetragen.
+- D-003 bleibt offen; der A-04-Entwurf ist noch kein freigegebener Kanon.
+
 
 ## 2026-11-12 — Charakter- und Fahrzeug-Roster konsolidiert
 - `02_CHARACTERS/CHARACTER_ROSTER.md` als zentrale Übersicht aller bisher beauftragten Figuren, Fahrzeuge, historischen Sheet-Nummern und offenen Korrekturen angelegt.
