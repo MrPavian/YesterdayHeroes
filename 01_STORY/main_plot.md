@@ -32,6 +32,10 @@ Das Chronal-Netz stabilisiert JANUS' Resonanzfeld und ermöglicht eine dauerhaft
 
 Die Säulen sind strategische Themen, keine bereits festgelegten historischen Ereignisse. Konkrete Knotenpunkte, Orte, Daten, Organisationen und Kausalketten werden erst in der weiteren Storyentwicklung beschlossen.
 
+## Colt und Howie — das Fall-Guy-Duo
+
+Colt Seavers und Howie Munson bilden ein eigenes, spielbares Duo. Colt ist der erfahrene Stuntman und Kopfgeldjäger, der riskante Aktionen vorbereitet und physisch ausführt. Howie ist sein jüngerer Cousin und Stuntman in Ausbildung. Er erkennt Muster in Filmaufnahmen, Markierungen, Produktionsplänen und Zeitlisten. Im Kapitel DER LETZTE TAKE stoßen sie auf einen verdeckten Satelliten-Uplink-Test und liefern den ersten wichtigen Timing-Beleg für A-04. In A-04 wird Howie die Signalzeiten mit KITT-Daten abgleichen und die gemeinsame Operation koordinieren; Colt übernimmt das vorbereitete Stunt- und Fahrzeugmanöver. Im Finale wird Howies Cue-Book zum analogen Ablaufplan für das gesamte Team, während Colt eine riskante Extraktion oder einen Transport übernimmt.
+
 ## Drei-Akt-Struktur
 
 ### Akt I — Einzelne Helden, einzelne Störungen
