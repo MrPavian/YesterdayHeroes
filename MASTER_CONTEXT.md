@@ -129,7 +129,7 @@ Keine unnötigen Frameworks einführen. Architektur modular und datengetrieben h
 
 ## 10. Status
 
-Das Repository ist eine Dokumentations- und Konzeptbasis. Story, Episoden, Rätsel und technische Architektur befinden sich in der Vorproduktion. Verbindlich festgelegt sind D-001 (Herkunft und Realität der Helden) und D-002 (JANUS, Chronal-Resonanz, Fernseh-Echos und fünf Chronal-Anker).
+Das Repository ist eine Dokumentations- und Konzeptbasis. Story, Episoden, Rätsel und technische Architektur befinden sich in der Vorproduktion. Verbindlich festgelegt sind D-001 (Herkunft und Realität der Helden), D-002 (JANUS, Chronal-Resonanz, Fernseh-Echos und fünf Chronal-Anker) sowie D-006 (Colt Seavers und Howie Munson als vollwertiges Duo im Heldenensemble).
 
 Noch offen sind insbesondere:
 - welche historischen Ereignisse der Zielrealität mit unserer Realität übereinstimmen oder abweichen;
