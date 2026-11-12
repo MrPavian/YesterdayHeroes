@@ -121,31 +121,38 @@ Der Anker verliert seine Resonanzkopplung. Die Ghostbusters liefern den entschei
 ## 6. A-04 — Der Kommunikationsanker: Der Himmel hört mit
 
 **Säule:** Globale Kommunikation und Informationskontrolle  
-**Historischer Bezug:** Iridium startete seinen kommerziellen Satellitenkommunikationsdienst am 1. November 1998.  
-**Vorgeschlagener Schauplatz:** Eine fiktive Bodenstation und ein abgelegener Satelliten-Relaisstandort im Pazifikraum.  
-**Helden-Schwerpunkt:** Stringfellow Hawke, Dominic Santini, Michael Knight/KITT sowie Colt Seavers und Howie Munson.
+**Historischer Bezug:** Iridium startete am 1. November 1998 den kommerziellen Sprachdienst; Paging-Dienste folgten Mitte November.  
+**Vorgeschlagener Zeitraum:** 16.–17. November 1998.  
+**Vorgeschlagene Schauplätze:** Tempe / Phoenix, Arizona; fiktive Saguaro-Ridge-Testanlage in der Sonora-Wüste.  
+**Helden-Schwerpunkt:** Michael Knight/KITT, Stringfellow Hawke, Dominic Santini, Colt Seavers und Howie Munson.
+
+### Technische Leitplanke
+
+Das echte Iridium-System darf nicht als eine einzige zentrale Satelliten-Schaltstelle dargestellt werden. Die reale Konstellation nutzte 66 Satelliten in sechs polaren Bahnebenen, Inter-Satellite-Links und Gateways zu terrestrischen Netzen. Ein Satelliten-Handover fand für Teilnehmende ungefähr alle sieben Minuten statt, abhängig von der Geometrie.
+
+Der Chronal-Anker sitzt deshalb nicht in einer angeblichen globalen Master-Steuerung aller Satelliten. Er sitzt in einem vollständig erfundenen **Priority Service Management Demonstrator** eines privaten Dienstleisters. Diese Zusatzebene verwaltet ausgewählte Teilnehmerprofile, Prioritätsregeln und Paging-Zustellung im Pilotbetrieb. Sie kann nur den teilnehmenden Testdienst beeinflussen, nicht das ganze echte Iridium-Netz oder beliebige Gespräche weltweit.
 
 ### Der Plan der Antagonisten
 
-Elon nutzt den weltweiten Satellitenkommunikationsdienst als Tarnung für einen zusätzlichen, fiktiven Steuerungsmechanismus. Der Chronal-Anker sitzt in einem erfundenen Netzwerkmanagement-Modul einer Bodenstation. Er soll die Übergabe von Verbindungen zwischen Stationen und Satelliten zeitlich markieren und damit eine globale Kommunikationskontrolle ermöglichen.
+Elon nutzt den Start des globalen Kommunikationsdienstes als Tarnung für einen zusätzlichen, fiktiven Service-Management-Demonstrator. Der Chronal-Anker ist in ein Zeit- und Autorisierungsmodul dieses Dienstes eingebaut. Über eine versteckte GLOBAL AUTHORITY RULE können ausgewählte Nachrichten im teilnehmenden Pilotnetz verzögert, priorisiert, gespiegelt oder zurückgehalten werden.
 
-Der Plan besteht nicht darin, alle Satelliten zu übernehmen. Es genügt, eine zentrale Übergabe- und Synchronisationsstelle so zu beeinflussen, dass bestimmte Informationen bevorzugt weitergeleitet, verzögert oder unsichtbar gespiegelt werden können.
+Die Antagonisten wollen damit eine Methode zur Kontrolle des Informationszugangs testen. Das eigentliche Satellitennetz bleibt funktionsfähig; der Angriff zielt auf die zusätzliche Dienstverwaltung und ihre Teilnehmerprofile.
 
 ### Abenteuer- und Rätselansatz
 
-- Michael und KITT entdecken in scheinbar zufälligen Kommunikationsausfällen ein wiederkehrendes Zeitmuster.
-- KITT vergleicht Diagnosewerte mit Satelliten-Passdaten und berechnet ein kurzes Zeitfenster.
-- Hawke und Santini planen mit Airwolf eine präzise Annäherung an den abgelegenen Relaisstandort.
-- Colt übernimmt als aktiver Teil des Teams die physische Stunt- und Fahrzeugkomponente: Er bereitet einen kontrollierten Transfer zwischen einem beweglichen Wartungsfahrzeug und dem Relaiszugang vor.
-- Howie vergleicht die Cue-Folge aus DER LETZTE TAKE mit den Handover-Zeiten und erkennt, welche drei Signalimpulse das Zeitfenster markieren. Er erstellt daraus ein Cue-Sheet, mit dem Colt und die Airwolf-Crew die Aktion koordinieren.
-- Der Spieler muss die Reihenfolge von Signalwechseln, Antennenausrichtung und Energieversorgung korrekt bestimmen.
-- Airwolf ist kein Arcade-Flugspiel: Die Mission ist eine vorbereitete Präzisionsoperation, deren Erfolg von zuvor gesammelten Informationen abhängt.
+Das vollständige Konzept mit Szenen, Schauplätzen, Figurenrollen, Gegenständen, fünf Rätseln, Rätselgraph, Hinweisen, Testfällen und Quellen steht in **[EP-A04 — DER HIMMEL HÖRT MIT](../03_EPISODES/EP-A04_DER_HIMMEL_HOERT_MIT.md)**.
+
+Die Teamrollen sind klar getrennt:
+- **Michael/KITT:** Diagnose, Protokollvergleich, Handover-Zeitfenster und finale Konsolenentscheidung.
+- **Hawke/Santini:** Luftaufklärung, sichere Flugroute und präzise Positionierung eines leichten Phasenreflektors.
+- **Colt:** Vorbereitung und Ausführung eines sicheren Boden-Rigging-Manövers an der Zusatzantenne.
+- **Howie:** Abgleich der Drei-Impuls-Sequenz aus DER LETZTE TAKE und Koordination aller Aktionen mit einem analogen Cue-Board.
 
 ### Ergebnis und Story-Funktion
 
-Die Helden verhindern, dass der Kommunikationsanker die weltweite Übergabe von Informationen kontrolliert. Sie entdecken jedoch, dass die fünf Anker nicht unabhängig voneinander arbeiten: Das Satellitensignal enthält einen Zeitcode, der auf den Jahrtausendwechsel verweist.
+Die lokale Kontrollfunktion wird auf OBSERVER umgestellt. Der echte Sprach- und Paging-Dienst bleibt aktiv. Der Chronal-Resonator wird nicht zerstört, sondern fällt in energiearmen Standby. Damit bleibt die Chronal-Spur für das Ensemble-Finale erhalten.
 
-**Charakterhöhepunkt:** Airwolf und KITT liefern Reichweite, Positionierung und Berechnung. Colt setzt den physischen Manöverplan um; Howie sorgt dafür, dass alle Beteiligten ihre Zeitfenster exakt einhalten. Ihre Fähigkeiten ergänzen sich, statt sich zu doppeln.
+Als Cliffhanger entdeckt das Team den Vermerk **MCI-2000** und fünf Zeitzonenfelder. Das führt direkt zur letzten Säule und zum Jahrtausendwechsel in A-05.
 
 ## 7. A-05 — Der Machtsicherungsanker: Die letzte Sekunde
 
