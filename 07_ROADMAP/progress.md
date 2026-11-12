@@ -52,6 +52,7 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - Charakterprofile `02_CHARACTERS/colt_seavers.md` und `02_CHARACTERS/howie_munson.md`
 - Serienübergreifender Figuren- und Fahrzeugindex `02_CHARACTERS/CHARACTER_ROSTER.md`
 - Eigenes spielbares Duo-Kapitel `03_EPISODES/EP-COLTHOWIE_DER_LETZTE_TAKE.md`
+- Vollständiges Team-Episodendossier `03_EPISODES/EP-A04_DER_HIMMEL_HOERT_MIT.md` angelegt (Michael/KITT, Airwolf, Colt und Howie; D-003 weiterhin Entwurf)
 - Chronal-Anker-Vorschlag (D-003 noch nicht akzeptiert)
 - Aktualisierte World Bible, Main Plot, Timeline, Villain Bible und Opening Sequence
 - Entscheidungslog mit D-001, D-002 und D-006 (accepted) sowie D-003 (proposed)
