@@ -16,10 +16,15 @@ Arbeitstitel und Reihenfolge sind nicht final. Die Episoden müssen aus dem Mast
 | 03 | Der fliegende Albtraum | Airwolf |
 | 04 | Besuch aus dem All | ALF |
 | 05 | Der Mann mit dem Klebeband | MacGyver |
-| 06 | Stunts und andere Katastrophen | Colt Seavers |
+| offen | Der letzte Take | Colt Seavers und Howie Munson — eigenständiges Figurenkapitel, Spätsommer 1998 |
 | 07 | Geister der Vergangenheit | Ghostbusters |
 | später | Das Zeitparadoxon | Mehrere Helden |
 | Finale | Yesterday Heroes | Gesamtes Ensemble |
+
+## Ausgearbeitete Episodendossiers
+- [EP-A02 — Das offene Netz](EP-A02_DAS_OFFENE_NETZ.md) — MacGyver / digitaler Chronal-Anker
+- [EP-A01 — Das Mandat](EP-A01_DAS_MANDAT.md) — A-Team / politischer Chronal-Anker
+- [EP-COLTHOWIE — Der letzte Take](EP-COLTHOWIE_DER_LETZTE_TAKE.md) — Colt Seavers und Howie Munson / Vorlauf zu A-04
 
 ## Episoden-Template
 Jede Episode soll enthalten:
