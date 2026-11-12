@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-12 — Colt Seavers und Howie Munson integriert
+- D-006 als accepted ergänzt: Colt und Howie gehören als vollwertiges Duo zum Heldenensemble.
+- Eigenständige Charakterprofile für Colt und Howie angelegt.
+- Eigenes spielbares Kapitel DER LETZTE TAKE für Spätsommer 1998 entwickelt.
+- Howies besondere Spielrolle festgelegt: Kontinuitätsbeobachtung, Auswertung von Produktionsunterlagen und Cue-Koordination.
+- Colts Rolle auf Stuntplanung, Fahrzeugmanöver, Rigging und Kopfgeldjäger-Erfahrung fokussiert.
+- Beide als aktive Mitwirkende in A-04 und im Ensemble-Finale verankert.
+- Master Context, World Bible, Main Plot, A-04-Vorschlag, Episoden- und Charakterindizes sowie Fortschrittsübersicht aktualisiert.
+
+# Changelog
+
 ## 2026-11-11 — D-003: Vorschlag für die fünf Chronal-Anker erarbeitet
 - Neue Datei `01_STORY/chronal_anchor_proposals.md` mit fünf historischen Bezugspunkten, geheimen fiktiven Manipulationen, Helden-Schwerpunkten, Rätselansätzen und Finalmechanik angelegt.
 - Historische Eckdaten zu Maastricht, CERN/Web, Honda P2, Iridium und Y2K mit Primär- bzw. institutionellen Quellen hinterlegt.
