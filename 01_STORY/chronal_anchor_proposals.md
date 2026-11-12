@@ -21,7 +21,7 @@ Die Nummerierung bezeichnet das jeweilige Themenfeld, nicht die chronologische R
 | A-01 | Politische Ordnung | Inkrafttreten des Maastricht-Vertrags / Gründung der EU | 1. November 1993 | A-Team |
 | A-02 | Digitale Infrastruktur | CERN gibt die Web-Software öffentlich frei | 30. April 1993 | MacGyver |
 | A-03 | Technologie und Automatisierung | Vorstellung des humanoiden Roboters Honda P2 | Dezember 1996 | Ghostbusters |
-| A-04 | Globale Kommunikation | Start des kommerziellen Iridium-Satellitendienstes | 1. November 1998 | Airwolf, Michael Knight und KITT |
+| A-04 | Globale Kommunikation | Start des kommerziellen Iridium-Satellitendienstes | 1. November 1998 | Airwolf, Michael Knight/KITT sowie Colt und Howie |
 | A-05 | Dauerhafte Machtsicherung | Y2K-Vorbereitung und Jahrtausendwechsel | 1999/2000 | Gesamtes Ensemble |
 
 ## 3. A-01 — Der politische Anker: Das Mandat
@@ -123,7 +123,7 @@ Der Anker verliert seine Resonanzkopplung. Die Ghostbusters liefern den entschei
 **Säule:** Globale Kommunikation und Informationskontrolle  
 **Historischer Bezug:** Iridium startete seinen kommerziellen Satellitenkommunikationsdienst am 1. November 1998.  
 **Vorgeschlagener Schauplatz:** Eine fiktive Bodenstation und ein abgelegener Satelliten-Relaisstandort im Pazifikraum.  
-**Helden-Schwerpunkt:** Stringfellow Hawke, Dominic Santini, Michael Knight und KITT.
+**Helden-Schwerpunkt:** Stringfellow Hawke, Dominic Santini, Michael Knight/KITT sowie Colt Seavers und Howie Munson.
 
 ### Der Plan der Antagonisten
 
@@ -134,18 +134,18 @@ Der Plan besteht nicht darin, alle Satelliten zu übernehmen. Es genügt, eine z
 ### Abenteuer- und Rätselansatz
 
 - Michael und KITT entdecken in scheinbar zufälligen Kommunikationsausfällen ein wiederkehrendes Zeitmuster.
-- KITT vergleicht Diagnosewerte mit öffentlich zugänglichen Satelliten-Passdaten und berechnet ein kurzes Zeitfenster.
+- KITT vergleicht Diagnosewerte mit Satelliten-Passdaten und berechnet ein kurzes Zeitfenster.
 - Hawke und Santini planen mit Airwolf eine präzise Annäherung an den abgelegenen Relaisstandort.
+- Colt übernimmt als aktiver Teil des Teams die physische Stunt- und Fahrzeugkomponente: Er bereitet einen kontrollierten Transfer zwischen einem beweglichen Wartungsfahrzeug und dem Relaiszugang vor.
+- Howie vergleicht die Cue-Folge aus DER LETZTE TAKE mit den Handover-Zeiten und erkennt, welche drei Signalimpulse das Zeitfenster markieren. Er erstellt daraus ein Cue-Sheet, mit dem Colt und die Airwolf-Crew die Aktion koordinieren.
 - Der Spieler muss die Reihenfolge von Signalwechseln, Antennenausrichtung und Energieversorgung korrekt bestimmen.
-- Airwolf ist dabei kein Arcade-Flugspiel: Die Mission ist eine vorbereitete Präzisionsoperation, deren Erfolg von den zuvor gesammelten Informationen abhängt.
-
-Colt Seavers kann bei Bedarf als Stunt-Spezialist eine Ablenkung oder einen gefährlichen Transport übernehmen. Das wäre eine gute Gelegenheit, seine Fähigkeiten einzubinden, ohne die Episode in ein Rennspiel zu verwandeln.
+- Airwolf ist kein Arcade-Flugspiel: Die Mission ist eine vorbereitete Präzisionsoperation, deren Erfolg von zuvor gesammelten Informationen abhängt.
 
 ### Ergebnis und Story-Funktion
 
 Die Helden verhindern, dass der Kommunikationsanker die weltweite Übergabe von Informationen kontrolliert. Sie entdecken jedoch, dass die fünf Anker nicht unabhängig voneinander arbeiten: Das Satellitensignal enthält einen Zeitcode, der auf den Jahrtausendwechsel verweist.
 
-**Charakterhöhepunkt:** Airwolf und KITT arbeiten nicht als zwei beliebige Fahrzeuge, sondern als unterschiedliche Werkzeuge – Airwolf für Reichweite und präzise Positionierung, KITT für Diagnose und Berechnung.
+**Charakterhöhepunkt:** Airwolf und KITT liefern Reichweite, Positionierung und Berechnung. Colt setzt den physischen Manöverplan um; Howie sorgt dafür, dass alle Beteiligten ihre Zeitfenster exakt einhalten. Ihre Fähigkeiten ergänzen sich, statt sich zu doppeln.
 
 ## 7. A-05 — Der Machtsicherungsanker: Die letzte Sekunde
 
@@ -175,6 +175,7 @@ Mögliche Beiträge:
 - **Die Ghostbusters:** messen, begrenzen und neutralisieren die Chronal-Resonanz am zentralen Knoten.
 - **ALF:** könnte eine bislang unbekannte außerirdische Frequenz- oder Navigationskomponente beisteuern. Das ist ein Vorschlag, dessen konkrete Grundlage erst in der ALF-Charakterbibel entwickelt werden muss.
 - **Colt Seavers:** übernimmt eine präzise Stunt-Ablenkung oder einen riskanten Transport, der das Zeitfenster überhaupt erst erreichbar macht.
+- **Howie Munson:** koordiniert über ein analoges Cue-Board die Reihenfolge der Teamaktionen und gleicht die Zeitfenster mit den vorbereiteten Plänen ab. Damit bleibt er auch im größten Technikchaos eine eigenständige Schlüsselfigur.
 
 Die Spieler müssen die zuvor erworbenen Informationen und Gegenstände sinnvoll kombinieren. Keine Figur darf nur zuschauen. Die endgültige Lösung besteht darin, das Chronal-Netz in der richtigen Reihenfolge zu entkoppeln und das Notfallmandat zu annullieren – nicht darin, einfach alle fünf Anker in die Luft zu jagen.
 
