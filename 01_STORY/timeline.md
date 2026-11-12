@@ -43,5 +43,5 @@ Fünf Chronal-Anker, je einer für die fünf Säulen von PROJECT TOMORROW, bilde
 | A-01 | Politische Ordnung | offen | offen | offen |
 | A-02 | Digitale Infrastruktur | offen | offen | offen |
 | A-03 | Technologie und Automatisierung | offen | offen | offen |
-| A-04 | Globale Kommunikation | offen | offen | offen |
+| A-04 | Globale Kommunikation | Iridium-Sprach-/Paging-Start; fiktiver PSM-Pilotdienst | Tempe / Saguaro Ridge, 16.–17.11.1998 | proposed (D-003) |
 | A-05 | Dauerhafte Machtsicherung | offen | offen | offen |
