@@ -251,7 +251,7 @@ Der Chronal-Anker befindet sich in einem privaten CSE-Kontrollmodul. Er besitzt 
 - Schaltfeld des CSE-Moduls.
 
 **Lösungsschritte:**
-1. B.A. öffnet die Wartungsklappe mit dem passenden Werkzeug aus dem Lager.
+1. B.A. öffnet die Wartungsklappe mit dem Team-Werkzeugkasten, der zur Startausrüstung gehört.
 2. Hannibal ordnet die Freigabesequenz aus der Präsentation.
 3. Face nutzt die Rolle des Koordinators, um im Demoablauf eine zweite Freigabe anzufordern.
 4. Murdock hält die Sicherheitsleute mit einer improvisierten Durchsage beschäftigt.
@@ -269,7 +269,7 @@ Der Chronal-Anker befindet sich in einem privaten CSE-Kontrollmodul. Er besitzt 
 |---|---|---|---|
 | ITEM-A01-FREIGHT-MANIFEST | Frachtliste | Doppelte Sendungsnummer entdecken | Questgegenstand |
 | ITEM-A01-CARBON-COPY | Fracht-Durchschlag | CSE-Fracht identifizieren | Questgegenstand |
-| ITEM-A01-TRACTOR | Alter Traktor | Zentrum der Konstruktion | Szenenobjekt |
+| ITEM-A01-TRACTOR | Alter Traktor | Zentrum der Konstruktion | Szenenobjekt |\n| ITEM-A01-TEAM-TOOLKIT | Team-Werkzeugkasten | Startausrüstung; Wartungsklappe öffnen | Bleibt im Team-Inventar |
 | ITEM-A01-VAN-BATTERY | Passende Batterie | Traktor starten | Questgegenstand bis Ausbruch |
 | ITEM-A01-JUMPER-LEADS | Überbrückungskabel | Stromversorgung herstellen | Questgegenstand bis Ausbruch |
 | ITEM-A01-SHELF-PLATES | Metallplatten | Schutzschild bauen | Verbrauchte Szenenobjekte |
@@ -299,7 +299,20 @@ Der Chronal-Anker befindet sich in einem privaten CSE-Kontrollmodul. Er besitzt 
 
 Questgegenstände können nicht abgelegt oder versehentlich verbraucht werden. Szenenbauteile werden nach der Flucht als verbraucht markiert; der Spieler erhält sie nicht im globalen Inventar.
 
-## 8. Episodenübergreifende Verbindung zu A-02
+## 8. Rätselgraph und Abhängigkeiten
+
+Die Hauptroute ist linear genug, um die Geschichte klar zu führen, bietet innerhalb der Szenen aber mehrere Erkundungswege:
+
+- Auftrag und Frachtpapiere → PZ-A01-01 (Sonderfracht identifizieren)
+- PZ-A01-01 → PZ-A01-02 (Lagerausbruch / Panzerkonstruktion)
+- PZ-A01-02 → Konferenzmappe und Gästeliste → PZ-A01-03 (Face-Legende)
+- PZ-A01-03 → Konferenzzugang; parallel sammelt Hannibal PZ-A01-04 (technischen Anhang und Freigabelogik)
+- PZ-A01-04 → Zugang zum Technikraum und Freigabesequenz
+- PZ-A01-05 (DUAL OBSERVER) → Episodenabschluss und dauerhafte Storyflags
+
+**Nicht-lineare Erkundung:** Frachtliste, Lagerregister, Werkstatt und Sonderfracht können in beliebiger Reihenfolge untersucht werden. Das Spiel hält entdeckte Hinweise im Notizbuch fest. Die Reihenfolge der Montagearbeiten am Traktor wird durch B.A.s Rückmeldungen geführt, damit Fehlversuche nicht den Fortschritt zurücksetzen.
+
+## 9. Episodenübergreifende Verbindung zu A-02
 
 MacGyvers Unterlagen aus A-02 nennen die Kennung CSE-MAA/11-93 und Meridian Access als Lieferanten eines privaten Vermittlungsdienstes. In Maastricht findet das A-Team dieselbe Kennung auf der Sonderfracht und erkennt, dass beide Projekte Teil derselben privaten Infrastruktur sind.
 
@@ -309,13 +322,13 @@ MacGyvers Unterlagen aus A-02 nennen die Kennung CSE-MAA/11-93 und Meridian Acce
 - Das Team erfährt, dass jeder Chronal-Anker eine lokale Kontrollfunktion und eine Resonanzkopplung besitzt.
 - Die Information hilft später bei A-03 bis A-05, ist aber nicht als zwingend zu verbrauchender Einzelgegenstand zu behandeln.
 
-## 9. Abschluss und Cliffhanger
+## 10. Abschluss und Cliffhanger
 
 Die CSE-Demonstration wird nicht zu einer politischen Krise. Das Team kann den privaten Kontrollmechanismus als unsichere Ein-Punkt-Autorisierung entlarven. Rainer versucht, sich als ahnungsloser Dienstleister darzustellen; Face lässt ihn mit einer Frage zurück, die er nicht beantworten kann.
 
 Im Technikraum findet Hannibal einen Verweis auf weitere Resonanzsignaturen außerhalb Europas. Das Team weiß nun, dass das Projekt größer ist als eine einzelne Konferenz. Am Ende erhalten sie eine Notiz mit fünf Feldern und einem zentralen Symbol, das später als Chronal-Netz identifiziert wird.
 
-## 10. Risiken und Fairnessprüfungen
+## 11. Risiken und Fairnessprüfungen
 
 - Maastricht-Vertrag und EU-Institutionen werden nicht als Teil der fiktiven Verschwörung dargestellt.
 - Das European Continuity Forum und CIVIC STABILITY EXCHANGE sind erfundene private Veranstaltungen/Projekte.
@@ -327,7 +340,7 @@ Im Technikraum findet Hannibal einen Verweis auf weitere Resonanzsignaturen auß
 - Der zweite Schlüssel darf nicht verpasst werden. Er wird im für die Hauptlösung zugänglichen Ersatzteilfach gefunden.
 - Alle notwendigen Gegenstände und Hinweise werden nach Entdeckung ins Team-Notizbuch übernommen.
 
-## 11. Testfälle
+## 12. Testfälle
 
 1. Spieler untersucht den Frachtbrief vor dem Lagerregister: Die doppelte Nummer wird im Notizbuch vermerkt.
 2. Spieler versucht den Traktor ohne Batterie zu starten: B.A. erklärt, dass der Motor nicht defekt, sondern die Stromversorgung leer ist.
@@ -338,7 +351,7 @@ Im Technikraum findet Hannibal einen Verweis auf weitere Resonanzsignaturen auß
 7. Spieler deaktiviert den Autorisierungsschlüssel vor dem Demonstrationsablauf: Der finale Ablauf bleibt lösbar; die Bühne wechselt in den technischen Prüfbetrieb.
 8. Alle Questbelege bleiben nach Episodenabschluss im Team-Storylog verfügbar.
 
-## 12. Recherchegrundlage
+## 13. Recherchegrundlage
 
 - Europäische Union, [Founding agreements — Treaty on European Union / Maastricht Treaty](https://european-union.europa.eu/principles-countries-history/principles-and-values/founding-agreements_en): Unterzeichnung 7. Februar 1992, Inkrafttreten 1. November 1993 und Überblick über die Ziele des Vertrags.
 - Die private Veranstaltung, das Projekt CIVIC STABILITY EXCHANGE, Meridian Access, die Sicherheitsorganisation und alle Manipulationen sind Fiktion.
