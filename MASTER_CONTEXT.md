@@ -141,3 +141,18 @@ Noch offen sind insbesondere:
 ## 11. Arbeitsgrundsatz
 
 YESTERDAY HEROES soll ein echtes, in sich schlüssiges Adventure werden – nicht nur eine Aneinanderreihung nostalgischer Cameos. Story, Rätsel, Charaktere und Technik werden gemeinsam und iterativ entwickelt.
+
+
+## 5a. Verbindlicher Grafik- und Animationsstandard
+
+**Entscheidung angenommen am 2026-11-12:** YESTERDAY HEROES verwendet handgepixelte Pixel-Art und acht Bewegungsrichtungen (8-way). Die verbindliche Produktionsspezifikation liegt in `05_TECHNICAL/pixel_art_animation_standard.md`.
+
+Für alle Charakter-Assets gelten insbesondere:
+- Richtungen: S, SW, W, NW, N, NE, E, SE.
+- Einheitliche Frame-Canvas je Figur, stabiler Fußanker/Pivot und transparente PNG-Spritesheets.
+- Master-Sheets bleiben die Designquelle; Animationen dürfen das freigegebene Charakterdesign nicht verändern.
+- Produktionsablauf: Designfreigabe → Animationsplanung/Key Poses → Pilotrichtung → acht Richtungen → technische Integration → QA.
+- B.A. Baracus ist die erste Pilotfigur.
+- Richtwert für den ersten technischen Prototyp: virtuelle Auflösung 640×360, ganzzahlige Skalierung und nearest-neighbor Texturfilterung. Die endgültige Render-/Engine-Umsetzung wird im Vertical Slice validiert.
+
+Diese Grafikentscheidung legt Three.js oder Phaser nicht fest. Die Engine bleibt bis zum Prototypvergleich offen.
