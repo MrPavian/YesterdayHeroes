@@ -29,11 +29,11 @@ Die Handlung beginnt mit getrennten Episoden und einzelnen Heldenabenteuern. Die
 - Das A-Team: Hannibal, B.A., Face und Murdock
 - Airwolf: Stringfellow Hawke und Dominic Santini
 - ALF
-- Colt Seavers
+- The Fall Guy: Colt Seavers und Howie Munson
 - Ghostbusters: Peter Venkman, Ray Stantz, Egon Spengler und Winston Zeddemore
 - MacGyver
 
-Weitere Figuren können später ergänzt werden, wenn sie dramaturgisch und spielmechanisch sinnvoll sind.
+Colt und Howie sind als Duo vollwertige Ensemble-Mitglieder: Colt übernimmt Stuntplanung und physische Ausführung, Howie Kontinuitätsanalyse und Ablaufkoordination.
 
 ## Antagonisten
 
