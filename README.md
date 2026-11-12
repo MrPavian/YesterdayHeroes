@@ -45,6 +45,12 @@ Sie verfolgen einen gemeinsamen Plan zur Kontrolle der Weltgeschichte und zur Er
 
 Der zentrale Arbeitsindex aller bisher beauftragten Figuren, Fahrzeuge, Grafik-Sheets, Korrekturen und offenen Aufgaben liegt unter [02_CHARACTERS/CHARACTER_ROSTER.md](02_CHARACTERS/CHARACTER_ROSTER.md).
 
+## Verbindlicher Grafikstandard
+
+- Pixel-Art, handgepixelte Darstellung.
+- Acht Bewegungsrichtungen für Charakterbewegungen.
+- Verbindliche Produktionspipeline und technische Spezifikation: [Pixel-Art- und Animationsstandard](05_TECHNICAL/pixel_art_animation_standard.md).
+
 ## Geplanter Entwicklungsansatz
 
 Claude wird als Entwicklungsassistent eingesetzt. Die Engine-Entscheidung (Three.js oder Phaser) und der konkrete Grafikstil werden vor Beginn der Implementierung durch einen kleinen technischen Prototyp verifiziert.
