@@ -56,11 +56,15 @@ Verbindlich vorgesehen sind:
 - Das A-Team: Hannibal, B.A., Face, Murdock
 - Airwolf: Stringfellow Hawke und Dominic Santini
 - ALF
-- Colt Seavers
+- The Fall Guy: Colt Seavers und Howie Munson
 - Ghostbusters: Peter Venkman, Ray Stantz, Egon Spengler, Winston Zeddemore
 - MacGyver
 
 Cameos sind möglich. Die genannten Figuren sollen nicht bloß dekorativ auftreten: Ihre jeweiligen Fähigkeiten, Macken und Beziehungen müssen für Handlung, Rätsel oder Humor genutzt werden.
+
+## 4a. Fall Guy-Duo — Colt Seavers und Howie Munson
+
+Colt und Howie sind vollwertige Ensemble-Mitglieder und kein bloßer Gastauftritt. Colt ist erfahrener Stuntman und gelegentlicher Kopfgeldjäger; er plant und führt vorbereitete Fahrzeug- und Stuntmanöver aus, beurteilt Rigging und verfolgt physische Spuren. Howie ist Colts jüngerer Cousin und Stuntman in Ausbildung. Seine eigenständigen Stärken sind Kontinuitätsbeobachtung, das Lesen von Produktions- und Ablaufunterlagen, Zeitmuster und die Koordination von Aktionen über Cue-Sheets. Howies Bogen führt vom überbehüteten Lehrling zum verlässlichen Koordinator. Die beiden erhalten das Kapitel DER LETZTE TAKE und tragen aktiv zu A-04 sowie zum Ensemble-Finale bei.
 
 ## 5. Dramaturgie und Spielstruktur
 
