@@ -1,3 +1,10 @@
+## 2026-11-12 — Pixel-Art und 8-way Animationsstandard angenommen
+- Grafikstil verbindlich auf handgepixelte Pixel-Art festgelegt.
+- Acht Bewegungsrichtungen (S, SW, W, NW, N, NE, E, SE) als Charakterstandard beschlossen.
+- Produktionsspezifikation mit Frame-Richtmaßen, Pivot/Fußanker, Animationsbibliothek, Sprite-Dateiformat, JSON-Config, Pipeline-Gates und QA angelegt.
+- B.A. Baracus als Pilotfigur bestimmt.
+- Engine bleibt offen; Pixel-Snap, Nearest-Neighbor und 8-way-Facing werden im Vertical Slice validiert.
+
 # Changelog
 
 ## 2026-11-12 — Charakter- und Fahrzeug-Roster konsolidiert
