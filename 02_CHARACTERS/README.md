@@ -11,7 +11,17 @@ Jeder Charakter erhält ein eigenes Profil mit:
 - Entwicklungsbogen
 
 ## Geplante Helden
-Michael Knight/KITT; Hannibal, B.A., Face und Murdock; Stringfellow Hawke und Dominic Santini; ALF; Colt Seavers; Peter Venkman, Ray Stantz, Egon Spengler und Winston Zeddemore; MacGyver.
+- Michael Knight / KITT
+- Das A-Team: Hannibal, B.A., Face und Murdock
+- Airwolf: Stringfellow Hawke und Dominic Santini
+- ALF
+- The Fall Guy: Colt Seavers und Howie Munson
+- Ghostbusters: Peter Venkman, Ray Stantz, Egon Spengler und Winston Zeddemore
+- MacGyver
+
+## Ausgearbeitete Profile
+- [Colt Seavers](colt_seavers.md) — Stuntman, Kopfgeldjäger und Action-Spezialist
+- [Howie Munson](howie_munson.md) — Stuntman in Ausbildung, Detailbeobachter und späterer Team-Koordinator
 
 ## Status
 Die Figurenliste ist verbindlich als Zielensemble. Einzelprofile und konkrete Fähigkeitenrätsel werden noch ausgearbeitet.
