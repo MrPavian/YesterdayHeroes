@@ -25,15 +25,24 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - A-Team-Konstruktionsrätsel mit einem improvisierten Panzer aus Traktor und Schrott ist ein gewünschtes Highlight.
 - Three.js ist angedacht; Phaser wird als 2D-Alternative geprüft.
 
+## Charakter- und Asset-Inventar
+
+- [x] Zentrale serienübergreifende Übersicht mit Figuren, Fahrzeugen, Sheet-Status, Korrekturen und offenen Aufgaben erstellt: `02_CHARACTERS/CHARACTER_ROSTER.md`.
+- [x] Charakterindex und Asset-Manifest miteinander verknüpft.
+- [x] Historische Sheet-Nummernkonflikte dokumentiert; ab jetzt stabile Dateinamen statt Sheet-Nummern als Asset-IDs verwenden.
+- [ ] PNG-Dateien der Chat-Generierungen tatsächlich ins Repository importieren und committen. Dokumentationseinträge sind kein Ersatz für Binärdateien.
+- [ ] Korrekturen gemäß Charakter-Roster abarbeiten (insbesondere Howie, Dominic, K.I.T.T. und ALF).
+- [ ] Airwolf-Fahrzeug-Sheet und eigenständiges Elon-Sheet finalisieren.
+
 ## Angelegte bzw. aktualisierte Dokumentation
 
 - README und MASTER_CONTEXT
 - Story-Bibel-Grundstruktur, Haupthandlung und Opener-Entwurf
 - Verbindliche Datei `01_STORY/time_travel_rules.md`
 - Charakterprofile `02_CHARACTERS/colt_seavers.md` und `02_CHARACTERS/howie_munson.md`
-- Eigenes spielbares Duo-Kapitel `03_EPISODES/EP-COLTHOWIE_DER_LETZTE_TAKE.md` angelegt; Anbindung an A-04 und A-05 ergänzt
-- Ausgearbeitete Konzeptdossiers für A-01 (A-Team) und A-02 (MacGyver) liegen unter `03_EPISODES` vor; D-003 bleibt bis zur Freigabe des historischen Grundmodells ein Entwurf
-- Entwurf `01_STORY/chronal_anchor_proposals.md` mit fünf historischen Bezugspunkten, vorgeschlagenen Handlungssträngen und Rätselmechaniken (D-003 noch nicht akzeptiert)
+- Serienübergreifender Figuren- und Fahrzeugindex `02_CHARACTERS/CHARACTER_ROSTER.md`
+- Eigenes spielbares Duo-Kapitel `03_EPISODES/EP-COLTHOWIE_DER_LETZTE_TAKE.md`
+- Chronal-Anker-Vorschlag (D-003 noch nicht akzeptiert)
 - Aktualisierte World Bible, Main Plot, Timeline, Villain Bible und Opening Sequence
 - Entscheidungslog mit D-001, D-002 und D-006 (accepted) sowie D-003 (proposed)
 - Charakter-, Episoden- und Game-Design-Indizes
@@ -65,5 +74,9 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - [x] Assets in Charakterbögen, Fahrzeugbogen, Sammel-Sheets und visuelle Roadmaps sortiert.
 - [x] Asset-README und Manifest in GitHub angelegt.
 - [ ] Bilddateien selbst ins Repository importieren (ZIP-Paket liegt als Download in der Chat-Sitzung bereit; GitHub-Connector hat hier keinen direkten Binärdatei-Upload aus dem Archivpfad).
-- [ ] Repository-Sichtbarkeit prüfen: Das Repository ist aktuell öffentlich; Fan-Art-Referenzgrafiken können Rechte Dritter berühren.
-- [ ] Fehlende Einzel-Sheets für Ghostbusters sowie Colt und Howie entwickeln.
+
+## Asset-Roster — 2026-11-12
+
+- [x] Vollständige Übersicht der in den Gesprächen beauftragten Figuren und Fahrzeuge erstellt.
+- [x] Offene Korrekturen und fehlende Einzel-Sheets markiert.
+- [ ] Neue PNG-Dateien und frühere Referenzgrafiken in Git versionieren.
