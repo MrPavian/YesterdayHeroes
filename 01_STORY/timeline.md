@@ -34,7 +34,7 @@ Fünf Chronal-Anker, je einer für die fünf Säulen von PROJECT TOMORROW, bilde
 | ID | Realität | Datum | Originalereignis | Eingriff | Folge | Anker | Episode |
 |---|---|---|---|---|---|---|---|
 | T-001 | Zielrealität | offen | offen | offen | offen | A-01 bis A-05 noch offen | offen |
-| T-002 | Zielrealität | Spätsommer 1998 | Colt und Howie verfolgen im Kapitel DER LETZTE TAKE einen Kautionsflüchtigen und entdecken einen verdeckten mobilen Uplink-Test | Sie sichern Filmrolle und Timing-Protokoll; keine Anker-Aktivierung | Vorlauf zu A-04 | keiner; Vorlaufereignis | DER LETZTE TAKE |
+| T-002 | Zielrealität | Spätsommer 1998 | Colt Seavers und Howie Munson verfolgen im Kapitel DER LETZTE TAKE einen Kautionsflüchtigen und entdecken einen verdeckten mobilen Uplink-Test | Sie sichern Filmrolle und Timing-Protokoll; keine Anker-Aktivierung | Vorlauf zu A-04 | keiner; Vorlaufereignis | DER LETZTE TAKE |
 
 ## Ankerregister (noch offen)
 
