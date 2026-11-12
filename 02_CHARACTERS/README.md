@@ -24,4 +24,4 @@ Jeder Charakter erhält ein eigenes Profil mit:
 - [Howie Munson](howie_munson.md) — Stuntman in Ausbildung, Detailbeobachter und späterer Team-Koordinator
 
 ## Status
-Die Figurenliste ist verbindlich als Zielensemble. Einzelprofile und konkrete Fähigkeitenrätsel werden noch ausgearbeitet.
+Die Figurenliste ist verbindlich als Zielensemble. Die Profile für Colt und Howie sind angelegt; die übrigen Einzelprofile und die konkreten Fähigkeitenrätsel werden schrittweise ergänzt.
