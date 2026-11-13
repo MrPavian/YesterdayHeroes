@@ -66,15 +66,25 @@ Cameos sind möglich. Die genannten Figuren sollen nicht bloß dekorativ auftret
 
 Colt und Howie sind vollwertige Ensemble-Mitglieder und kein bloßer Gastauftritt. Colt ist erfahrener Stuntman und gelegentlicher Kopfgeldjäger; er plant und führt vorbereitete Fahrzeug- und Stuntmanöver aus, beurteilt Rigging und verfolgt physische Spuren. Howie ist Colts jüngerer Cousin und Stuntman in Ausbildung. Seine eigenständigen Stärken sind Kontinuitätsbeobachtung, das Lesen von Produktions- und Ablaufunterlagen, Zeitmuster und die Koordination von Aktionen über Cue-Sheets. Howies Bogen führt vom überbehüteten Lehrling zum verlässlichen Koordinator. Die beiden erhalten das Kapitel DER LETZTE TAKE und tragen aktiv zu A-04 sowie zum Ensemble-Finale bei.
 
+## 4b. ALF und Willie Tanner — Melmacianische Navigation
+
+ALF / Gordon Shumway ist ein vollwertiges Mitglied des Ensembles. Willie Tanner ist seine wichtigste Bezugsperson auf der Erde und ein wichtiger Unterstützer in ALFs eigenem Kapitel. Im Kapitel **BESUCH AUS DEM ALL** (vorgeschlagen: Oktober 1995) reparieren sie das **NAV-7**, ein Melmacianisches Navigations- und Phasenbeacon aus dem beschädigten Rest von ALFs Ankunftsschiff. Das NAV-7 kann einen stabilen Referenzträger erzeugen, wiederkehrende Impulse messen und nach manueller Kalibrierung eine Gegenphase ausgeben. Es ist ausdrücklich kein Zeitreisegerät und kann keine Chronal-Anker eigenständig deaktivieren. Das Kapitel und die Grenzen des Geräts sind in `03_EPISODES/EP-ALF_BESUCH_AUS_DEM_ALL.md` sowie `02_CHARACTERS/alf.md` dokumentiert.
+
 ## 5. Dramaturgie und Spielstruktur
 
 Das Spiel verbindet Episoden-Adventure und Hybridstruktur:
 - Zu Beginn erhalten einzelne Helden eigene Episoden und abgeschlossene Abenteuer.
 - Hinweise, Gegenstände, Ereignisse und Entscheidungen verbinden die Episoden zunehmend.
 - Später treffen Figuren und Teams aufeinander; der Spieler wechselt in passenden Abschnitten zwischen Helden.
-- Im Finale kommt das gesamte Ensemble zusammen. Die Menschheit und die Freiheit zweier Realitäten stehen vor einer scheinbar ausweglosen Bedrohung. Nur das Zusammenspiel aller Fähigkeiten kann Donald und Elon aufhalten. Der aktuelle, noch nicht freigegebene D-003-Entwurf verortet A-05 am Jahreswechsel 1999/2000 im fiktiven MCI-2000-Zentrum auf Kiritimati: Michael/KITT koordinieren die Zeitfenster, das A-Team baut eine mechanische Trennbank, Airwolf positioniert einen Phasenreflektor, Ghostbusters begrenzen den Chronal-Abdruck, ALF liefert eine zuvor eingeführte Melmacianische Gegenphase, MacGyver baut den analogen Taktgeber, Colt riggt den Abschirmring und Howie koordiniert alle Aktionen über ein Cue-Board.
+- Im Finale kommt das gesamte Ensemble zusammen. Die Menschheit und die Freiheit zweier Realitäten stehen vor einer scheinbar ausweglosen Bedrohung. Nur das Zusammenspiel aller Fähigkeiten kann Donald und Elon aufhalten. Der aktuelle, noch nicht freigegebene D-003-Entwurf verortet A-05 am Jahreswechsel 1999/2000 im fiktiven MCI-2000-Zentrum auf Kiritimati: Michael/KITT koordinieren die Zeitfenster, das A-Team baut eine mechanische Trennbank, Airwolf positioniert einen Phasenreflektor, Ghostbusters begrenzen den Chronal-Abdruck, ALF liefert mit dem zuvor eingeführten NAV-7 eine kalibrierte Melmacianische Gegenphase, MacGyver baut den analogen Taktgeber, Colt riggt den Abschirmring und Howie koordiniert alle Aktionen über ein Cue-Board.
 
 Der Opener zeigt Donald und Elon in einer geheimen Forschungsbasis im Jahr 2026 ihrer Herkunftsrealität. Elon präsentiert JANUS. Die Anzeige zeigt zwei Zielkoordinaten: Zeit und Realität. Eine kurze Archivsequenz etabliert, dass die Helden in ihrer Herkunftsrealität als Fernsehfiguren bekannt sind und dass die Serien merkwürdige Resonanzfragmente enthalten. PROJECT TOMORROW wird als Plan mit fünf Chronal-Ankern angedeutet. Danach folgt der Sprung in die alternative Realität des Jahres 1993 und der Einstieg in die erste Heldenepisode.
+
+### 5a. Neue Storybausteine — Vorschlagsstatus
+
+- **ALF / NAV-7:** Das Kapitel BESUCH AUS DEM ALL ist als Figurenkapitel für Oktober 1995 ausgearbeitet. Das NAV-7 liefert die im Finale benötigte Gegenphase; seine technischen Grenzen sind festgelegt, aber noch nicht separat als Kanon bestätigt.
+- **A-03 / GEISTER IN DER MASCHINE:** Die Ghostbusters bearbeiten den Automatisierungsanker am 20.–21. Dezember 1996 in einem fiktiven Robotik-Integrationslabor. Honda P2 bildet nur den historischen Hintergrund; die Verschwörung und der MPC sind vollständig erfunden.
+- **Status:** Beide Dossiers sind Arbeitsentwürfe. D-003 und D-004 bleiben offen; die Reihenfolge und endgültige historische Grundregel sind nicht freigegeben.
 
 ## 6. Rätseldesign
 
