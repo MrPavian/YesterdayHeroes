@@ -17,16 +17,20 @@ Arbeitstitel und Reihenfolge sind nicht final. Die Episoden müssen aus dem Mast
 | 04 | Besuch aus dem All | ALF |
 | 05 | Der Mann mit dem Klebeband | MacGyver |
 | offen | Der letzte Take | Colt Seavers und Howie Munson — eigenständiges Figurenkapitel, Spätsommer 1998 |
-| 07 | Geister der Vergangenheit | Ghostbusters |
+| 07 | Geister in der Maschine | Ghostbusters / Technologie-Anker A-03 |
 | später | Das Zeitparadoxon | Mehrere Helden |
 | Finale | Yesterday Heroes | Gesamtes Ensemble |
 
 ## Ausgearbeitete Episodendossiers
+- [EP-A03 — Geister in der Maschine](EP-A03_GEISTER_IN_DER_MASCHINE.md) — Ghostbusters / Robotik- und Automatisierungsanker (D-003-Vorschlag)
+- [EP-ALF — Besuch aus dem All](EP-ALF_BESUCH_AUS_DEM_ALL.md) — ALF und Willie Tanner / Einführung des NAV-7 als Finale-Vorbereitung
 - [EP-A02 — Das offene Netz](EP-A02_DAS_OFFENE_NETZ.md) — MacGyver / digitaler Chronal-Anker
 - [EP-A01 — Das Mandat](EP-A01_DAS_MANDAT.md) — A-Team / politischer Chronal-Anker
 - [EP-COLTHOWIE — Der letzte Take](EP-COLTHOWIE_DER_LETZTE_TAKE.md) — Colt Seavers und Howie Munson / Vorlauf zu A-04
 - [EP-A04 — Der Himmel hört mit](EP-A04_DER_HIMMEL_HOERT_MIT.md) — Michael/KITT, Airwolf, Colt und Howie / Kommunikationsanker
 - [EP-A05 — Die letzte Sekunde](EP-A05_DIE_LETZTE_SEKUNDE.md) — vollständiges Ensemble / Machtsicherungsanker und Millennium-Finale
+
+**Hinweis zur Nummerierung:** A-01 bis A-05 bezeichnen die fünf Chronal-Anker, nicht die verbindliche Reihenfolge der spielbaren Episoden. Die Kapitelreihenfolge bleibt D-004 vorbehalten.
 
 ## Episoden-Template
 Jede Episode soll enthalten:
