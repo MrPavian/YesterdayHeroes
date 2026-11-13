@@ -72,7 +72,7 @@ Das Spiel verbindet Episoden-Adventure und Hybridstruktur:
 - Zu Beginn erhalten einzelne Helden eigene Episoden und abgeschlossene Abenteuer.
 - Hinweise, Gegenstände, Ereignisse und Entscheidungen verbinden die Episoden zunehmend.
 - Später treffen Figuren und Teams aufeinander; der Spieler wechselt in passenden Abschnitten zwischen Helden.
-- Im Finale kommt das gesamte Ensemble zusammen. Die Menschheit und die Freiheit zweier Realitäten stehen vor einer scheinbar ausweglosen Bedrohung. Nur das Zusammenspiel aller Fähigkeiten kann Donald und Elon aufhalten.
+- Im Finale kommt das gesamte Ensemble zusammen. Die Menschheit und die Freiheit zweier Realitäten stehen vor einer scheinbar ausweglosen Bedrohung. Nur das Zusammenspiel aller Fähigkeiten kann Donald und Elon aufhalten. Der aktuelle, noch nicht freigegebene D-003-Entwurf verortet A-05 am Jahreswechsel 1999/2000 im fiktiven MCI-2000-Zentrum auf Kiritimati: Michael/KITT koordinieren die Zeitfenster, das A-Team baut eine mechanische Trennbank, Airwolf positioniert einen Phasenreflektor, Ghostbusters begrenzen den Chronal-Abdruck, ALF liefert eine zuvor eingeführte Melmacianische Gegenphase, MacGyver baut den analogen Taktgeber, Colt riggt den Abschirmring und Howie koordiniert alle Aktionen über ein Cue-Board.
 
 Der Opener zeigt Donald und Elon in einer geheimen Forschungsbasis im Jahr 2026 ihrer Herkunftsrealität. Elon präsentiert JANUS. Die Anzeige zeigt zwei Zielkoordinaten: Zeit und Realität. Eine kurze Archivsequenz etabliert, dass die Helden in ihrer Herkunftsrealität als Fernsehfiguren bekannt sind und dass die Serien merkwürdige Resonanzfragmente enthalten. PROJECT TOMORROW wird als Plan mit fünf Chronal-Ankern angedeutet. Danach folgt der Sprung in die alternative Realität des Jahres 1993 und der Einstieg in die erste Heldenepisode.
 
@@ -135,7 +135,7 @@ Noch offen sind insbesondere:
 - welche historischen Ereignisse der Zielrealität mit unserer Realität übereinstimmen oder abweichen;
 - die konkreten Knotenpunkte, Daten und Orte der fünf Chronal-Anker;
 - der genaue Verlauf der einzelnen Episoden und die Episodenreihenfolge;
-- die endgültige Ausgestaltung des Antagonisten-Verrats und des Finales;
+- die endgültige Ausgestaltung des Antagonisten-Verrats und des Finales (A-05 liegt als ausführlicher, noch nicht freigegebener Entwurf vor);
 - Grafikstil, Engine und Zielauflösung.
 
 ## 11. Arbeitsgrundsatz
