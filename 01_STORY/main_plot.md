@@ -36,6 +36,14 @@ Die Säulen sind strategische Themen, keine bereits festgelegten historischen Er
 
 Colt Seavers und Howie Munson bilden ein eigenes, spielbares Duo. Colt ist der erfahrene Stuntman und Kopfgeldjäger, der riskante Aktionen vorbereitet und physisch ausführt. Howie ist sein jüngerer Cousin und Stuntman in Ausbildung. Er erkennt Muster in Filmaufnahmen, Markierungen, Produktionsplänen und Zeitlisten. Im Kapitel DER LETZTE TAKE stoßen sie auf einen verdeckten Satelliten-Uplink-Test und liefern den ersten wichtigen Timing-Beleg für A-04. In A-04 wird Howie die Signalzeiten mit KITT-Daten abgleichen und die gemeinsame Operation koordinieren; Colt übernimmt das vorbereitete Stunt- und Fahrzeugmanöver. Im Finale wird Howies Cue-Book zum analogen Ablaufplan für das gesamte Team, während Colt eine riskante Extraktion oder einen Transport übernimmt.
 
+## ALF und das NAV-7 — die vorbereitete Gegenphase
+
+Im Oktober 1995 reparieren ALF und Willie Tanner das **NAV-7**, ein Melmacianisches Navigations- und Phasenbeacon aus dem beschädigten Rest von ALFs Ankunftsschiff. Das Gerät ist kein Zeitreiseinstrument und kann weder JANUS ersetzen noch Anker deaktivieren. Es kann jedoch einen stabilen Referenzträger erzeugen, wiederkehrende Signalimpulse vermessen und nach manueller Kalibrierung eine Gegenphase ausgeben. ALF sichert außerdem eine Aufzeichnung des Drei-Impuls-Musters. Damit wird die Fähigkeit für A-05 konkret vorbereitet, statt im Finale neu eingeführt zu werden. Das Kapitel ist in `03_EPISODES/EP-ALF_BESUCH_AUS_DEM_ALL.md` ausgearbeitet; ALFs Fähigkeiten und Grenzen stehen in `02_CHARACTERS/alf.md`.
+
+## A-03 — Geister in der Maschine
+
+Der Technologie- und Automatisierungsanker wird im Entwurf am 20.–21. Dezember 1996 in einem unabhängigen, vollständig fiktiven Robotik-Integrationslabor im Großraum Tokio behandelt. Die Ghostbusters untersuchen einen vermeintlich heimgesuchten Testbetrieb und entdecken eine manipulierte Prioritätsebene für automatisierte Abläufe. Honda P2 ist ausschließlich der reale historische Hintergrund des Zeitpunkts; Honda und seine Beschäftigten sind nicht Teil der fiktiven Verschwörung. Die vier Ghostbusters arbeiten mit klar getrennten Rollen aus Zugang, PKE-Messung, technischer Analyse und sicherer Containment-Durchführung. Das ausführliche Dossier liegt in `03_EPISODES/EP-A03_GEISTER_IN_DER_MASCHINE.md`.
+
 ## Drei-Akt-Struktur
 
 ### Akt I — Einzelne Helden, einzelne Störungen
@@ -58,7 +66,7 @@ Colt Seavers und Howie Munson bilden ein eigenes, spielbares Duo. Colt ist der e
 - Das Chronal-Netz droht beim Jahreswechsel 1999/2000 vollständig aktiviert zu werden.
 - Schauplatz des aktuellen Entwurfs ist das fiktive MCI-2000 Global Continuity Centre auf Kiritimati. Ein privates GLOBAL CONTINUITY MANDATE tarnt die Kontrollübernahme als Y2K-Notfall- und Kontinuitätsdienst; die reale Y2K-Vorbereitung und die echten Monitoringstellen sind nicht Teil der Verschwörung.
 - Fünf ausgewählte regionale Mitternachtsfenster bilden die letzte Synchronisationssequenz. KITT berechnet die UTC-Reihenfolge; Howie koordiniert sie über ein analoges Cue-Board.
-- Alle Helden kommen zusammen: Michael/KITT steuern Diagnose und finale Umschaltung; A-Team baut eine mechanische Trennbank; Airwolf positioniert den Phasenreflektor; Ghostbusters begrenzen den Chronal-Abdruck; ALF liefert mit einem zuvor eingeführten Melmacianischen Navigationsbaustein die Gegenphase; MacGyver baut den analogen Taktgeber; Colt riggt den Abschirmring; Howie koordiniert die Aktionen.
+- Alle Helden kommen zusammen: Michael/KITT steuern Diagnose und finale Umschaltung; A-Team baut eine mechanische Trennbank; Airwolf positioniert den Phasenreflektor; Ghostbusters begrenzen den Chronal-Abdruck; ALF liefert mit dem zuvor eingeführten NAV-7 eine auf das Chronal-Signal kalibrierte Gegenphase; MacGyver baut den analogen Taktgeber; Colt riggt den Abschirmring; Howie koordiniert die Aktionen.
 - Das Finale ist ein großes Adventure-Rätsel mit zehn miteinander verknüpften Rätselkomplexen. Die fünf Resonatoren werden in der richtigen Reihenfolge in Standby versetzt, das Notfallmandat wird auf Beobachterbetrieb zurückgesetzt und die JANUS-Brücke kollabiert.
 - Donald und Elon geraten durch ihre widersprüchlichen Alleinansprüche in einen 90-sekündigen Prüfmodus. Dieser verschafft den Helden ein Zeitfenster, ersetzt aber nicht die vorbereiteten Teamaktionen.
 - Die Synchronisierung scheitert; die beiden Realitäten bleiben getrennt. JANUS wird nicht zerstört. Der endgültige Ausgang für Donald und Elon bleibt für die weitere Antagonistenplanung offen.
