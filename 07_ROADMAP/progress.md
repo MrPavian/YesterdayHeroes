@@ -1,6 +1,6 @@
 # Project Progress
 
-**Letzte Aktualisierung:** 2026-11-12
+**Letzte Aktualisierung:** 2026-11-13
 
 ## Aktueller Status
 
@@ -71,7 +71,6 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 5. A-03 und das ALF-Kapitel ausarbeiten; dabei ALFs Melmacianischen Navigationsbaustein als Voraussetzung für A-05 sauber vorbereiten.
 6. Episodenreihenfolge und D-003 abstimmen.
 7. Technischen Prototyp und Engine-Vergleich starten.
-6. Technischen Prototyp und Engine-Vergleich starten.
 
 ## Offene Entscheidungen
 
