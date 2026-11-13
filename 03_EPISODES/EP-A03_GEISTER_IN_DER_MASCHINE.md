@@ -151,7 +151,7 @@ Im Demonstrationsraum lässt sich der M-6 zunächst kontrolliert vorführen. Nac
 
 ### Szene 3 — Drei Impulse im Wartungsgang
 
-Ray findet im Wartungsgang eine PKE-Spur, die in regelmäßigen Abständen drei kurze Ausschläge und anschließend eine längere Pause zeigt. Das Muster ähnelt dem Signal, das ALF im früheren Kapitel auf einem Melmacianischen Navigationsgerät aufgezeichnet hat. Die Ghostbusters kennen ALF zu diesem Zeitpunkt nicht; sie erkennen lediglich, dass die Erscheinung einem wiederkehrenden, technisch stabilen Signal folgt.
+Ray findet im Wartungsgang eine PKE-Spur, die in regelmäßigen Abständen drei kurze Ausschläge und anschließend eine längere Pause zeigt. Das Das Drei-Impuls-Muster entspricht auf Spiel- und Plotebene der Signalstruktur, die im früheren ALF-Kapitel mit dem NAV-7 aufgezeichnet wurde. Die Ghostbusters kennen ALF zu diesem Zeitpunkt nicht und besitzen seine Aufzeichnung nicht; die Verbindung wird erst später im Ensemble zusammengeführt.
 
 **Rätselkomplex 3: Der Weg der Impulse**
 - Drei Messpunkte müssen in der richtigen Reihenfolge untersucht werden.
