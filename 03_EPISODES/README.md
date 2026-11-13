@@ -26,6 +26,7 @@ Arbeitstitel und Reihenfolge sind nicht final. Die Episoden müssen aus dem Mast
 - [EP-A01 — Das Mandat](EP-A01_DAS_MANDAT.md) — A-Team / politischer Chronal-Anker
 - [EP-COLTHOWIE — Der letzte Take](EP-COLTHOWIE_DER_LETZTE_TAKE.md) — Colt Seavers und Howie Munson / Vorlauf zu A-04
 - [EP-A04 — Der Himmel hört mit](EP-A04_DER_HIMMEL_HOERT_MIT.md) — Michael/KITT, Airwolf, Colt und Howie / Kommunikationsanker
+- [EP-A05 — Die letzte Sekunde](EP-A05_DIE_LETZTE_SEKUNDE.md) — vollständiges Ensemble / Machtsicherungsanker und Millennium-Finale
 
 ## Episoden-Template
 Jede Episode soll enthalten:
