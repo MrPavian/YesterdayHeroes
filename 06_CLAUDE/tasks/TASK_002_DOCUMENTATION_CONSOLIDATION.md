@@ -13,6 +13,14 @@ Lies zuerst:
 
 Nutze außerdem den Auditbericht aus TASK 001, den der Projektinitiator bereitgestellt hat. Die Punkte aus diesem Bericht sind Prüfhypothesen und müssen am aktuellen Repository-Zustand verifiziert werden.
 
+**Aktualisierte Arbeitsgrundlage (Stand 2026-11-13):**
+- Neu hinzugekommen sind `03_EPISODES/EP-A03_GEISTER_IN_DER_MASCHINE.md`, `03_EPISODES/EP-ALF_BESUCH_AUS_DEM_ALL.md` und `02_CHARACTERS/alf.md`.
+- A03 nutzt Honda P2 ausschließlich als historischen Hintergrund. Das fiktive Robotik-Integrationslabor, der M-6 und der MPC sind von Honda und dessen realer Forschung getrennt.
+- Das ALF-Kapitel führt das NAV-7 ein. A05 muss dasselbe Gerät und ausschließlich die dort bereits eingeführten Fähigkeiten verwenden.
+- A03 und ALF sind ausgearbeitete Entwürfe, aber noch keine freigegebenen Storyentscheidungen. D-003 und D-004 bleiben offen.
+- Prüfe insbesondere, dass die Ghostbusters vor dem Finale weder ALF noch dessen Aufzeichnung kennen. Eine Übereinstimmung des Drei-Impuls-Musters darf zunächst nur auf der Ebene des Spiels/Plots bestehen.
+- Prüfe die Timeline auf chronologische Sortierung: ALF (1995), A03 (1996), Colt/Howie (1998), A04 (1998), A05 (1999/2000). Ereignis-IDs und Anker-IDs dürfen nicht verwechselt werden.
+
 ## Ziel
 Die Dokumentation soll widerspruchsfrei, navigierbar und als verlässliche Arbeitsgrundlage für Claude Code nutzbar sein. Diese Aufgabe ist ausschließlich Dokumentations- und Strukturarbeit. Keine Programmierung und keine neuen Story-Festlegungen.
 
@@ -88,6 +96,8 @@ Kennzeichne diese Liste als empfohlenen Vertical-Slice-Umfang, der noch vom Proj
 
 ## Akzeptanzkriterien
 - [ ] Root-level `CLAUDE.md` vorhanden und kurz, eindeutig, ohne Regelduplikate.
+- [ ] A03, ALF/NAV-7 und A05 sind kontinuitätsgeprüft; keine Figur besitzt Wissen, das sie in der Zielzeit noch nicht erlangt haben kann.
+- [ ] Die Ereignistimeline ist chronologisch sortiert und trennt Ereignis-IDs von Chronal-Anker-IDs.
 - [ ] Widersprüche aus TASK 001 geprüft und bereinigt oder begründet als offen markiert.
 - [ ] D-001 und D-002 werden durchgehend als akzeptiert behandelt.
 - [ ] Status von Assets präzise und wahrheitsgemäß.
