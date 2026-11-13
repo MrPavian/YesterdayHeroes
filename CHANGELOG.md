@@ -6,6 +6,18 @@
 - Engine bleibt offen; Pixel-Snap, Nearest-Neighbor und 8-way-Facing werden im Vertical Slice validiert.
 
 # Changelog
+
+## 2026-11-13 — A-05: DIE LETZTE SEKUNDE ausgearbeitet
+- Vollständiges Ensemble-Finale als Konzeptdossier angelegt.
+- Y2K-Hintergrund von den fiktiven MCI-2000-Manipulationen getrennt; kein realer globaler Computerkollaps wird behauptet.
+- Fünf ausgewählte lokale Mitternachtsfenster mit UTC-Zeiten recherchiert und dokumentiert.
+- Alle Helden mit unverzichtbaren Aufgaben in zehn Rätselkomplexen eingebunden.
+- Melmacianische Gegenphasen-Komponente als notwendige Vorarbeit für das ALF-Kapitel markiert.
+- Finale mit A-Team-Trennbank, Ghostbusters-Containment, MacGyver-Taktgeber, Airwolf-Reflektor, Colt-Rigging, Howies Cue-Board und Michael/KITT-Steuerung ausgearbeitet.
+- Episodenindex, Chronal-Anker-Vorschlag, Timeline, MASTER_CONTEXT und Fortschritt aktualisiert.
+- D-003 bleibt proposed; keine historischen oder Antagonisten-Detailentscheidungen wurden als akzeptierter Kanon ausgegeben.
+
+
 ## 2026-11-12 — A-04: DER HIMMEL HÖRT MIT ausgearbeitet
 - Vollständiges Episodendossier für Michael/KITT, Hawke/Santini, Colt und Howie angelegt.
 - Reale Iridium-Architektur sauber von der fiktiven PSM-Zusatzebene getrennt: keine erfundene zentrale Steuerung sämtlicher Satelliten.
