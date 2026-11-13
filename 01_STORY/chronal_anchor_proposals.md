@@ -157,38 +157,54 @@ Als Cliffhanger entdeckt das Team den Vermerk **MCI-2000** und fünf Zeitzonenfe
 ## 7. A-05 — Der Machtsicherungsanker: Die letzte Sekunde
 
 **Säule:** Dauerhafte Machtsicherung und institutionelle Kontrolle  
-**Historischer Bezug:** Der Jahrtausendwechsel war von umfangreichen Y2K-Prüfungen und Korrekturen an Computersystemen begleitet. Die Gefahr bestand in fehlerhafter Verarbeitung von Jahreszahlen; die intensive Vorbereitung verhinderte viele befürchtete Störungen. Der Vorschlag nutzt die weltweite Umstellungsphase, behauptet aber ausdrücklich nicht, dass es tatsächlich einen globalen Computerkollaps gab.  
+**Historischer Bezug:** Y2K-Vorbereitung und weltweiter Jahreswechsel 1999/2000.  
 **Vorgeschlagener Zeitraum:** 31. Dezember 1999 bis 1. Januar 2000.  
-**Vorgeschlagener Schauplatz:** Ein fiktives Millennium Continuity Center. Der endgültige Standort ist offen.  
-**Helden-Schwerpunkt:** Das gesamte Ensemble.
+**Vorgeschlagener Hauptschauplatz:** Fiktives MCI-2000 Global Continuity Centre auf Kiritimati, Kiribati, mit Offshore-Relais.  
+**Helden-Schwerpunkt:** Gesamtes Ensemble.
 
-### Der Plan der Antagonisten
+### Historische Leitplanke
 
-Donald und Elon präsentieren eine fiktive **MILLENNIUM CONTINUITY INITIATIVE**. Sie verspricht, kritische Systeme beim Übergang ins neue Jahrtausend stabil und sicher zu halten.
+Das reale Y2K-Problem beruhte unter anderem auf zweistelligen Jahresfeldern und der Gefahr, dass 00 als 1900 statt 2000 behandelt wird. Weltweite Prüfungen, Reparaturen und Notfallpläne verhinderten viele der befürchteten größeren Ausfälle. Das Spiel zeigt keinen weltweiten Computerkollaps und behauptet nicht, reale Y2K-Monitoringstellen seien Teil einer Verschwörung gewesen.
 
-In der alternativen Zielrealität nutzen die Antagonisten eine Reihe erfundener Dienstleister und Softwarepakete, um einen gemeinsamen Notfallzugang in ausgewählte Verwaltungs-, Kommunikations- und Steuerungssysteme einzubauen. Es gibt keinen universellen Y2K-Patch: Die Manipulation wird über mehrere gezielt platzierte Systeme und die bereits aktiven Chronal-Anker verteilt.
+Kiribati hatte seine östlichen Inseln zum 1. Januar 1995 auf UTC+13 und UTC+14 umgestellt. Kiritimati gehört dadurch zu den frühesten bewohnten Orten, die nach lokaler Uhrzeit in das Jahr 2000 wechseln. Der Entwurf nutzt diesen frühen lokalen Mitternachtszeitpunkt als erstes von fünf ausgewählten MCI-Zeitfenstern. Er behauptet nicht, Kiritimati habe zwingend den ersten Sonnenaufgang des neuen Jahres erlebt.
 
-Der letzte Anker soll beim Jahreswechsel die fünf Resonanzsignaturen synchronisieren. Zugleich soll ein dauerhaftes Notfallmandat aktiviert werden, das Donald politische Kontrolle und Elon technische Kontrolle verschafft.
+### Der fiktive Plan
 
-### Abenteuer- und Rätselansatz
+Donald und Elon präsentieren MCI-2000 als privaten Kontinuitäts- und Notfalldienst. In Wahrheit enthält das System einen absichtlich eingebauten GLOBAL CONTINUITY MANDATE. Ein interner zweistelliger Jahrescode löst beim Wechsel von 99 auf 00 die versteckte Autoritätsübernahme aus. Dieser Mechanismus gehört ausschließlich zur erfundenen MCI-Software und ist kein realer Y2K-Effekt.
 
-Das Finale ist ein mehrstufiges Ensemble-Rätsel. Die weltweiten Mitternachtswechsel sind nicht überall gleichzeitig; die Zeitverschiebungen bilden eine zeitliche Welle. KITT muss die Reihenfolge und die kurzen Zeitfenster berechnen.
+Fünf ausgewählte regionale Bestätigungsknoten liefern die letzte Sequenz:
 
-Mögliche Beiträge:
-- **Michael und KITT:** berechnen die Aktivierungssequenz und erkennen, welcher Anker den nächsten Impuls auslösen würde.
-- **Airwolf und Santini:** bringen ein entscheidendes Bauteil oder eine Gegenfrequenz an einen schwer erreichbaren Relaispunkt.
-- **MacGyver:** baut einen analogen Notweg, der auch dann funktioniert, wenn digitale Systeme bereits manipuliert sind.
-- **Das A-Team:** konstruiert aus verfügbaren Teilen eine physische Abschirmung bzw. einen Verteiler, der mehrere Anker gleichzeitig entkoppeln kann.
-- **Die Ghostbusters:** messen, begrenzen und neutralisieren die Chronal-Resonanz am zentralen Knoten.
-- **ALF:** könnte eine bislang unbekannte außerirdische Frequenz- oder Navigationskomponente beisteuern. Das ist ein Vorschlag, dessen konkrete Grundlage erst in der ALF-Charakterbibel entwickelt werden muss.
-- **Colt Seavers:** übernimmt eine präzise Stunt-Ablenkung oder einen riskanten Transport, der das Zeitfenster überhaupt erst erreichbar macht.
-- **Howie Munson:** koordiniert über ein analoges Cue-Board die Reihenfolge der Teamaktionen und gleicht die Zeitfenster mit den vorbereiteten Plänen ab. Damit bleibt er auch im größten Technikchaos eine eigenständige Schlüsselfigur.
+| Knoten | Lokale Zeitzone am Jahreswechsel | Lokale Mitternacht in UTC |
+|---|---:|---|
+| Kiritimati | UTC+14 | 31.12.1999, 10:00 |
+| Auckland | UTC+13 (Sommerzeit) | 31.12.1999, 11:00 |
+| Sydney | UTC+11 (Sommerzeit) | 31.12.1999, 13:00 |
+| Tokio | UTC+9 | 31.12.1999, 15:00 |
+| Berlin | UTC+1 | 31.12.1999, 23:00 |
 
-Die Spieler müssen die zuvor erworbenen Informationen und Gegenstände sinnvoll kombinieren. Keine Figur darf nur zuschauen. Die endgültige Lösung besteht darin, das Chronal-Netz in der richtigen Reihenfolge zu entkoppeln und das Notfallmandat zu annullieren – nicht darin, einfach alle fünf Anker in die Luft zu jagen.
+Diese fünf Knoten sind eine bewusst ausgewählte fiktive MCI-Schlüsselfolge, keine vollständige Darstellung aller weltweiten Zeitzonen.
 
-### Ergebnis und Story-Funktion
+### Der Ensemble-Auftrag
 
-Die Synchronisierung scheitert. Die Herkunftsrealität und die Zielrealität bleiben getrennt. Donald und Elon verlieren die Möglichkeit, ihre Kontrollarchitektur dauerhaft über die Realitätsgrenze auszudehnen. Ihre Rivalität liefert den Helden den letzten Vorteil: Beide versuchen im entscheidenden Moment, den eigenen Anteil am Erfolg zu sichern und sabotieren damit die gemeinsame Aktivierung.
+Das vollständige Konzept mit Figurenrollen, Schauplätzen, zehn Rätselkomplexen, Gegenständen, Storyflags, Rätselgraph, Fairness-Tests, Finale und Recherchequellen steht in **[EP-A05 — DIE LETZTE SEKUNDE](../03_EPISODES/EP-A05_DIE_LETZTE_SEKUNDE.md)**.
+
+Die Rollen sind bewusst voneinander abhängig:
+- **Michael/KITT:** berechnen die globale Reihenfolge und treffen die finale Konsolenentscheidung.
+- **A-Team:** Hannibal plant, Face verschafft Zugang, B.A. baut eine fünfkanalige mechanische Trennbank, Murdock ermöglicht die Ablenkung.
+- **Airwolf:** Hawke und Santini positionieren einen Phasenreflektor am schwer erreichbaren Relaismast.
+- **MacGyver:** baut einen analogen Taktgeber und den unabhängigen Signal-Bypass.
+- **Ghostbusters:** identifizieren und begrenzen den Chronal-Abdruck.
+- **ALF:** erkennt mit einem zuvor eingeführten Melmacianischen Navigationsbaustein die Gegenphase.
+- **Colt:** riggt und bewegt den Abschirmring.
+- **Howie:** koordiniert sämtliche Zeitfenster über sein analoges Cue-Board.
+
+### Die Schwachstelle der Antagonisten
+
+Donald und Elon haben beide private Pläne, den jeweils anderen nach der Machtübernahme zu entmachten. Der Entwurf nennt ihre Befehle vorläufig GOLDEN LEGACY und SINGLE SINGULARITY. Face kann beide Override-Anträge in eine gemeinsame Prüfwarteschlange geben. Die widersprüchlichen Ansprüche lösen einen 90-sekündigen Sperrmodus aus. Dieser verschafft dem Ensemble nur ein kurzes Fenster; die vorbereiteten Teamrätsel müssen weiterhin gelöst werden.
+
+### Ergebnis
+
+Die fünf Resonatoren werden in energiearmen Standby versetzt, das GLOBAL CONTINUITY MANDATE wird auf OBSERVER ONLY zurückgesetzt und die JANUS-Brücke kollabiert. Die beiden Realitäten bleiben getrennt. JANUS wird nicht zerstört; der endgültige Ausgang für Donald und Elon bleibt für die weitere Antagonistenplanung offen.
 
 ## 8. Dramaturgische und spielerische Gesamtlogik
 
