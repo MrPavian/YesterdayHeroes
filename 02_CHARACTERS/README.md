@@ -25,10 +25,11 @@ Die vollständige serienübergreifende Übersicht mit Fahrzeugen, Sheet-Status, 
 - MacGyver
 
 ## Ausgearbeitete Profile
+- [ALF / Gordon Shumway](alf.md) — Melmacianische Technik, Navigationswissen und NAV-7
 
 - [Colt Seavers](colt_seavers.md) — Stuntman, Kopfgeldjäger und Action-Spezialist
 - [Howie Munson](howie_munson.md) — Stuntman in Ausbildung, Detailbeobachter und späterer Team-Koordinator
 
 ## Status
 
-Die Figurenliste ist verbindlich als Zielensemble. Die Profile für Colt und Howie sind angelegt; weitere Einzelprofile und Fähigkeitenrätsel werden schrittweise ergänzt. Grafikentwürfe aus Chat-Sitzungen gelten nicht automatisch als in Git versionierte Dateien.
+Die Figurenliste ist verbindlich als Zielensemble. Profile für ALF, Colt und Howie sind angelegt; weitere Einzelprofile und Fähigkeitenrätsel werden schrittweise ergänzt. Grafikentwürfe aus Chat-Sitzungen gelten nicht automatisch als in Git versionierte Dateien.
