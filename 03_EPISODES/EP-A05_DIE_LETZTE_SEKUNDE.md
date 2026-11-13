@@ -351,7 +351,7 @@ ALF hört bzw. erkennt in der isolierten Resonanz eine Struktur, die er aus der 
 - MacGyvers Niederspannungs-Prüfmodul.
 
 **Lösungsschritte:**
-1. ALF vergleicht die Resonanz mit dem Navigationsbaustein.
+1. ALF vergleicht die Resonanz mit dem NAV-7.
 2. Er erkennt, dass die Impulse gespiegelt und nicht einfach wiederholt werden.
 3. Ray und Egon bestätigen, dass der Abdruck stabil genug für einen Vergleich ist.
 4. MacGyver verbindet den Baustein mit seinem isolierten Prüfmodul, ohne die MCI-Anlage zu berühren.
@@ -578,7 +578,7 @@ Die Hauptroute ist ein Netz aus parallelen Vorbereitungen, die im Finale zusamme
 - Dienstleisterliste + MCI-Programm + Wartungsplan → PZ-A05-02: Face erhält Zugang.
 - Zwei Override-Anträge + Berechtigungsmatrix → PZ-A05-03: Rivalität und Zwei-Schlüssel-Prinzip aufdecken.
 - PKE-Messkurve + Chronal-Restspuren → PZ-A05-04: fünf Resonanzpeaks unterscheiden.
-- PKE-Messkurve + Melmacianischer Navigationsbaustein → PZ-A05-05: Gegenphase finden.
+- PKE-Messkurve + NAV-7 → PZ-A05-05: Gegenphase finden.
 - Mechanisches Uhrwerk + Kupferkontakte + Isolator → PZ-A05-06: analogen Taktgeber bauen.
 - Telefonverteiler + fünf Kennungen + Kabelsatz → PZ-A05-07: mechanische Trennbank bauen.
 - Airwolf-Reflektor + Rigging + Howies Cue-Board → PZ-A05-08: Relaismast positionieren.
@@ -593,7 +593,7 @@ Das GLOBAL CONTINUITY MANDATE fällt aus. Die echten Y2K-Monitoring- und Notfall
 
 Im öffentlichen Bereich läuft der Countdown weiter. Die Welt begrüßt das Jahr 2000. In den Nachrichten werden die vielerorts gut vorbereiteten Übergänge und die Arbeit der Notfallteams erwähnt. Es gibt keinen globalen Computerkollaps.
 
-Die Helden stehen auf der Außenterrasse des Zentrums. Auf KITT's Diagnosebildschirm ist nur noch eine schwache Restspur zu sehen. ALF betrachtet seinen Navigationsbaustein und meint, er habe selten so viel Arbeit für einen einzigen Piepton erlebt.
+Die Helden stehen auf der Außenterrasse des Zentrums. Auf KITT's Diagnosebildschirm ist nur noch eine schwache Restspur zu sehen. ALF betrachtet das NAV-7 und meint, er habe selten so viel Arbeit für einen einzigen Piepton erlebt.
 
 **Vorschlag für den letzten Dialog:**
 
@@ -635,7 +635,7 @@ JANUS wird nicht zerstört. Die Maschine bleibt als gesicherte, aber nicht unmit
 2. Eine falsche UTC-Reihenfolge führt zu einer klaren KITT-Erklärung, nicht zu einer Sperre.
 3. Face kann mit einer falschen Identität abgewiesen werden, verliert aber den Zugang nicht dauerhaft.
 4. Die Ghostbusters erhalten keine Lösung allein durch einen Protonenstrahl. PKE-Messung, Vergleich mit alten Restspuren und Stabilisierung sind erforderlich.
-5. ALFs Navigationsbaustein muss im früheren ALF-Kapitel verfügbar gemacht worden sein. Fehlt er im Inventar, wird er über den bereits etablierten Storyzustand rekonstruiert, nicht neu erfunden.
+5. Das NAV-7 muss im früheren ALF-Kapitel verfügbar gemacht worden sein. Fehlt er im Inventar, wird er über den bereits etablierten Storyzustand rekonstruiert, nicht neu erfunden.
 6. MacGyvers analoger Taktgeber kann beliebig oft getestet werden. Ein Fehlversuch beschädigt keine erforderliche Komponente.
 7. B.A.s Trennbank kann vor der endgültigen Leitungszuordnung aufgebaut werden; die Hebel lassen sich später korrekt beschriften und umstecken.
 8. Colt darf das Rigging vorbereiten, bevor Howie das vollständige Cue-Board erstellt. Die eigentliche Bewegung wird erst nach der Cue-Freigabe ausgeführt.
