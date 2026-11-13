@@ -53,6 +53,7 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 - Serienübergreifender Figuren- und Fahrzeugindex `02_CHARACTERS/CHARACTER_ROSTER.md`
 - Eigenes spielbares Duo-Kapitel `03_EPISODES/EP-COLTHOWIE_DER_LETZTE_TAKE.md`
 - Vollständiges Team-Episodendossier `03_EPISODES/EP-A04_DER_HIMMEL_HOERT_MIT.md` angelegt (Michael/KITT, Airwolf, Colt und Howie; D-003 weiterhin Entwurf)
+- Vollständiges Ensemble-Finale `03_EPISODES/EP-A05_DIE_LETZTE_SEKUNDE.md` angelegt: Y2K-Rahmen, fünf Zeitfenster, alle Heldenrollen, zehn Rätselkomplexe und Finale (D-003 weiterhin Entwurf)
 - Chronal-Anker-Vorschlag (D-003 noch nicht akzeptiert)
 - Aktualisierte World Bible, Main Plot, Timeline, Villain Bible und Opening Sequence
 - Entscheidungslog mit D-001, D-002 und D-006 (accepted) sowie D-003 (proposed)
@@ -67,11 +68,15 @@ Konzept- und Vorproduktionsphase. Repository und Dokumentationsgrundlage wurden 
 2. D-003: Den Vorschlag für die historische Grundregel und die fünf Chronal-Anker abstimmen.
 3. Nach Freigabe die fünf Anker mit konkreten Szenen, Gegenständen und Rätselgraphen detailliert ausarbeiten.
 4. Charakterbibel und Antagonisten-Arcs vertiefen.
-5. Episoden planen und episodenübergreifende Rätselketten entwickeln.
+5. A-03 und das ALF-Kapitel ausarbeiten; dabei ALFs Melmacianischen Navigationsbaustein als Voraussetzung für A-05 sauber vorbereiten.
+6. Episodenreihenfolge und D-003 abstimmen.
+7. Technischen Prototyp und Engine-Vergleich starten.
 6. Technischen Prototyp und Engine-Vergleich starten.
 
 ## Offene Entscheidungen
 
+- A-05: Melmacianischen Navigationsbaustein und seine Einführung im ALF-Kapitel noch festlegen.
+- A-05: Ausgang für Donald und Elon nach dem gescheiterten Mandat noch festlegen.
 - D-003: Historische Grundregel und vorgeschlagene Bezugspunkte (Maastricht, CERN/Web, Honda P2, Iridium und Y2K) noch nicht freigegeben.
 - Finale Episodenanzahl und Reihenfolge (D-004).
 - Engine (Three.js oder Phaser) nach Prototypvergleich (D-005).
