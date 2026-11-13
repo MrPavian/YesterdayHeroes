@@ -36,6 +36,7 @@ Fünf Chronal-Anker, je einer für die fünf Säulen von PROJECT TOMORROW, bilde
 | T-001 | Zielrealität | offen | offen | offen | offen | A-01 bis A-05 noch offen | offen |
 | T-002 | Zielrealität | Spätsommer 1998 | Colt Seavers und Howie Munson verfolgen im Kapitel DER LETZTE TAKE einen Kautionsflüchtigen und entdecken einen verdeckten mobilen Uplink-Test | Sie sichern Filmrolle und Timing-Protokoll; keine Anker-Aktivierung | Vorlauf zu A-04 | keiner; Vorlaufereignis | DER LETZTE TAKE |
 
+| T-004 | Zielrealität | 31.12.1999–01.01.2000 | Das Ensemble stellt sich im fiktiven MCI-2000-Zentrum auf Kiritimati dem GLOBAL CONTINUITY MANDATE | Fünf Chronal-Resonatoren werden in Standby gesetzt; das Mandat wird deaktiviert und die JANUS-Brücke kollabiert | A-05 | DIE LETZTE SEKUNDE |
 | T-003 | Zielrealität | 16.–17. November 1998 | Michael Knight/KITT, Hawke/Santini, Colt und Howie untersuchen einen fiktiven Priority-Service-Test nach dem Start des Iridium-Sprach- und Paging-Dienstes | Die versteckte PSM-Autorisierungsregel wird neutralisiert; der Chronal-Resonator fällt in Standby, der reale Kommunikationsdienst bleibt unberührt | A-04 | DER HIMMEL HÖRT MIT |
 
 ## Ankerregister (noch offen)
@@ -46,4 +47,4 @@ Fünf Chronal-Anker, je einer für die fünf Säulen von PROJECT TOMORROW, bilde
 | A-02 | Digitale Infrastruktur | offen | offen | offen |
 | A-03 | Technologie und Automatisierung | offen | offen | offen |
 | A-04 | Globale Kommunikation | Iridium-Sprach-/Paging-Start; fiktiver PSM-Pilotdienst | Tempe / Saguaro Ridge, 16.–17.11.1998 | proposed (D-003) |
-| A-05 | Dauerhafte Machtsicherung | offen | offen | offen |
+| A-05 | Dauerhafte Machtsicherung | Y2K-Jahreswechsel; fiktives MCI-2000 und GLOBAL CONTINUITY MANDATE | Kiritimati / Offshore-Relais, 31.12.1999–01.01.2000 | proposed (D-003) |
