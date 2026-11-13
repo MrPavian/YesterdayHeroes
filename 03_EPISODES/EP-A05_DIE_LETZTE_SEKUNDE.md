@@ -154,10 +154,10 @@ Ein kleiner, fiktiver Relaismast auf einer künstlichen Wartungsplattform vor de
 ### ALF — Fremde Resonanzstruktur erkennen
 - ALF erkennt, dass der Chronal-Träger eine Folge enthält, die nicht wie ein gewöhnlicher terrestrischer Zeit- oder Funksender aufgebaut ist.
 - Er erkennt eine Ähnlichkeit mit dem Not- und Navigationssignal seiner eigenen außerirdischen Technik.
-- Er besitzt einen kleinen Melmacianischen Navigations-/Notrufbaustein aus seinem früheren Raumschiff- oder Rettungskapsel-Zubehör. Dieser Baustein liefert keine fertige Lösung; ALF muss die passende Gegenfolge aus dem Signal herauslesen.
+- Er besitzt das im ALF-Kapitel eingeführte **NAV-7**, ein Melmacianisches Navigations- und Phasenbeacon aus dem beschädigten Rest seines Ankunftsschiffs. Es liefert keine fertige Lösung; ALF muss die passende Gegenfolge aus dem Signal herauslesen und den Referenzträger kalibrieren.
 - Er gibt MacGyver die notwendige Phasenreferenz, mit der die künstliche Chronal-Sequenz gegenphasig neutralisiert werden kann.
 
-**Kontinuitätsanforderung:** Der Melmacianische Navigationsbaustein muss im vorherigen ALF-Kapitel eingeführt und als dauerhaft verfügbarer Gegenstand dokumentiert werden. Er darf nicht erst im Finale aus dem Nichts auftauchen.
+**Kontinuitätsanforderung:** Das NAV-7 muss im vorherigen Kapitel BESUCH AUS DEM ALL eingeführt, repariert und als dauerhaft verfügbarer Gegenstand dokumentiert werden. Seine Fähigkeit, nach manueller Kalibrierung eine Gegenphase auszugeben, muss dort bereits spielbar demonstriert worden sein.
 
 ### Peter Venkman — Menschen lesen und ablenken
 - Peter erkennt, wann ein MCI-Mitarbeiter kurz davor ist, Alarm zu schlagen.
@@ -338,14 +338,14 @@ In einem abgeschirmten Raum messen Ray und Egon eine ungewöhnliche Energieersch
 
 ### Szene 5 — Ein Signal von sehr weit weg
 
-ALF hört bzw. erkennt in der isolierten Resonanz eine Struktur, die ihn an einen Navigations- und Notrufbaustein seines früheren Raumschiffs erinnert. Er erklärt, dass die Signatur wie ein Rückrufsignal aufgebaut ist, aber in umgekehrter Phase läuft.
+ALF hört bzw. erkennt in der isolierten Resonanz eine Struktur, die er aus der Kalibrierung des NAV-7 kennt. Er erklärt, dass die Signatur wie ein Rückrufsignal aufgebaut ist, aber in umgekehrter Phase läuft.
 
 **Rätsel PZ-A05-05: Der falsche Heimweg**
 
-**Ziel:** Aus dem Melmacianischen Navigationsbaustein eine passende Gegenphasensignatur gewinnen.
+**Ziel:** Aus dem Melmacianischen NAV-7 eine passende Gegenphasensignatur gewinnen.
 
 **Gegenstände:**
-- Melmacianischer Navigations-/Notrufbaustein (aus dem früheren ALF-Kapitel);
+- NAV-7 (Melmacianisches Navigations- und Phasenbeacon aus BESUCH AUS DEM ALL);
 - isolierter Chronal-Abdruck;
 - PKE-Messprotokoll;
 - MacGyvers Niederspannungs-Prüfmodul.
@@ -529,7 +529,7 @@ Der Countdown erreicht die fünfte ausgewählte Bestätigung. Die fünf Chronal-
 | ITEM-A05-ADMIN-OVERRIDE | Donalds GOLDEN-LEGACY-Antrag | Leitstelle; Prüfwarteschlange |
 | ITEM-A05-TECH-OVERRIDE | Elons SINGLE-SINGULARITY-Antrag | Leitstelle; Prüfwarteschlange |
 | ITEM-A05-PKE-TRACE | Fünfteilige PKE-Messkurve | Ghostbusters; Reihenfolge der Resonanzkanäle |
-| ITEM-A05-MELMACIAN-REFERENCE | Gegenphasen-Referenz aus ALFs Navigationsbaustein | ALF; Gegenfolge |
+| ITEM-A05-MELMACIAN-REFERENCE | Gegenphasen-Referenz aus ALFs NAV-7 | ALF; Gegenfolge |
 | ITEM-A05-ANALOG-CLOCK | Unabhängiger mechanischer Taktgeber | MacGyver; digitale Masteruhr umgehen |
 | ITEM-A05-CUE-BOARD | Howies analoger Einsatzplan | Koordination aller Teamaktionen |
 | ITEM-A05-OBSERVER-PROTOCOL | Beobachter-Konfiguration des MCI | Michael; finale Umschaltung |
@@ -651,7 +651,7 @@ JANUS wird nicht zerstört. Die Maschine bleibt als gesicherte, aber nicht unmit
 ## 12. Offene Detailfragen
 
 - Endgültiger geographischer Aufbau des fiktiven MCI-2000-Zentrums und der Offshore-Plattform.
-- Exakte Form und Herkunft des Melmacianischen Navigationsbausteins; er muss im ALF-Kapitel vorbereitet werden.
+- Finale Bestätigung der im ALF-Kapitel eingeführten NAV-7-Technik und der genauen Darstellung im Inventar.
 - Welche früheren Gegenstände aus A-01 bis A-04 physisch wiederverwendet werden und welche nur als Storylog-Informationen zählen.
 - Ob Willie Tanner ALF vor dem Finale aus der Ferne unterstützt oder selbst kurz auftritt.
 - Endgültiger Ausgang für Donald und Elon nach dem gescheiterten Mandat.
