@@ -33,18 +33,17 @@ Fünf Chronal-Anker, je einer für die fünf Säulen von PROJECT TOMORROW, bilde
 
 | ID | Realität | Datum | Originalereignis | Eingriff | Folge | Anker | Episode |
 |---|---|---|---|---|---|---|---|
-| T-001 | Zielrealität | offen | offen | offen | offen | A-01 bis A-05 noch offen | offen |
+| T-001 | Zielrealität | offen | Noch nicht festgelegtes Kontinuitätsereignis | offen | offen | offen | offen |
 | T-002 | Zielrealität | Spätsommer 1998 | Colt Seavers und Howie Munson verfolgen im Kapitel DER LETZTE TAKE einen Kautionsflüchtigen und entdecken einen verdeckten mobilen Uplink-Test | Sie sichern Filmrolle und Timing-Protokoll; keine Anker-Aktivierung | Vorlauf zu A-04 | keiner; Vorlaufereignis | DER LETZTE TAKE |
-
-| T-004 | Zielrealität | 31.12.1999–01.01.2000 | Das Ensemble stellt sich im fiktiven MCI-2000-Zentrum auf Kiritimati dem GLOBAL CONTINUITY MANDATE | Fünf Chronal-Resonatoren werden in Standby gesetzt; das Mandat wird deaktiviert und die JANUS-Brücke kollabiert | A-05 | DIE LETZTE SEKUNDE |
 | T-003 | Zielrealität | 16.–17. November 1998 | Michael Knight/KITT, Hawke/Santini, Colt und Howie untersuchen einen fiktiven Priority-Service-Test nach dem Start des Iridium-Sprach- und Paging-Dienstes | Die versteckte PSM-Autorisierungsregel wird neutralisiert; der Chronal-Resonator fällt in Standby, der reale Kommunikationsdienst bleibt unberührt | A-04 | DER HIMMEL HÖRT MIT |
+| T-004 | Zielrealität | 31.12.1999–01.01.2000 | Das Ensemble stellt sich im fiktiven MCI-2000-Zentrum auf Kiritimati dem GLOBAL CONTINUITY MANDATE | Fünf Chronal-Resonatoren werden in Standby gesetzt; das Mandat wird deaktiviert und die JANUS-Brücke kollabiert | A-05 | DIE LETZTE SEKUNDE |
 
 ## Ankerregister (noch offen)
 
-| ID | PROJECT-TOMORROW-Säule | Historischer Knotenpunkt | Ort / Datum | Status |
+| ID | PROJECT-TOMORROW-Säule | Vorgeschlagener historischer Knotenpunkt | Vorgeschlagener Ort / Zeitraum | Status |
 |---|---|---|---|---|
-| A-01 | Politische Ordnung | offen | offen | offen |
-| A-02 | Digitale Infrastruktur | offen | offen | offen |
-| A-03 | Technologie und Automatisierung | offen | offen | offen |
+| A-01 | Politische Ordnung | Maastricht-Vertrag / fiktives CSE-Pilotprojekt | Maastricht, November 1993 | proposed (D-003) |
+| A-02 | Digitale Infrastruktur | CERN gibt Web-Software frei / fiktiver ATLAS-Zusatzdienst | Genfer Raum, April 1993 | proposed (D-003) |
+| A-03 | Technologie und Automatisierung | Honda P2 als realer Robotik-Meilenstein / fiktiver Chronal-Anker | Japan, Dezember 1996 | proposed (D-003) |
 | A-04 | Globale Kommunikation | Iridium-Sprach-/Paging-Start; fiktiver PSM-Pilotdienst | Tempe / Saguaro Ridge, 16.–17.11.1998 | proposed (D-003) |
 | A-05 | Dauerhafte Machtsicherung | Y2K-Jahreswechsel; fiktives MCI-2000 und GLOBAL CONTINUITY MANDATE | Kiritimati / Offshore-Relais, 31.12.1999–01.01.2000 | proposed (D-003) |
