@@ -55,12 +55,15 @@ Colt Seavers und Howie Munson bilden ein eigenes, spielbares Duo. Colt ist der e
 - Eine scheinbar erfolgreiche Aktion der Helden könnte unbeabsichtigt einen Teil des gegnerischen Plans ermöglichen.
 
 ### Akt III — Yesterday Heroes
-- Das Chronal-Netz droht vollständig aktiviert zu werden.
-- Die Zukunft der Zielrealität und die fortlaufende Zukunft der Herkunftsrealität sind bedroht.
-- Alle Helden kommen zusammen.
-- Das Finale ist ein großes Adventure-Rätsel, das alle spezifischen Fähigkeiten und zuvor gesammelten Informationen kombiniert.
-- Die fünf Anker und JANUS müssen koordiniert neutralisiert oder umprogrammiert werden.
-- Donald und Elon müssen aufgehalten werden; ihre Rivalität kann den Helden eine entscheidende Gelegenheit eröffnen.
+- Das Chronal-Netz droht beim Jahreswechsel 1999/2000 vollständig aktiviert zu werden.
+- Schauplatz des aktuellen Entwurfs ist das fiktive MCI-2000 Global Continuity Centre auf Kiritimati. Ein privates GLOBAL CONTINUITY MANDATE tarnt die Kontrollübernahme als Y2K-Notfall- und Kontinuitätsdienst; die reale Y2K-Vorbereitung und die echten Monitoringstellen sind nicht Teil der Verschwörung.
+- Fünf ausgewählte regionale Mitternachtsfenster bilden die letzte Synchronisationssequenz. KITT berechnet die UTC-Reihenfolge; Howie koordiniert sie über ein analoges Cue-Board.
+- Alle Helden kommen zusammen: Michael/KITT steuern Diagnose und finale Umschaltung; A-Team baut eine mechanische Trennbank; Airwolf positioniert den Phasenreflektor; Ghostbusters begrenzen den Chronal-Abdruck; ALF liefert mit einem zuvor eingeführten Melmacianischen Navigationsbaustein die Gegenphase; MacGyver baut den analogen Taktgeber; Colt riggt den Abschirmring; Howie koordiniert die Aktionen.
+- Das Finale ist ein großes Adventure-Rätsel mit zehn miteinander verknüpften Rätselkomplexen. Die fünf Resonatoren werden in der richtigen Reihenfolge in Standby versetzt, das Notfallmandat wird auf Beobachterbetrieb zurückgesetzt und die JANUS-Brücke kollabiert.
+- Donald und Elon geraten durch ihre widersprüchlichen Alleinansprüche in einen 90-sekündigen Prüfmodus. Dieser verschafft den Helden ein Zeitfenster, ersetzt aber nicht die vorbereiteten Teamaktionen.
+- Die Synchronisierung scheitert; die beiden Realitäten bleiben getrennt. JANUS wird nicht zerstört. Der endgültige Ausgang für Donald und Elon bleibt für die weitere Antagonistenplanung offen.
+
+Das vollständige Konzept steht in `03_EPISODES/EP-A05_DIE_LETZTE_SEKUNDE.md`. D-003 bleibt bis zur ausdrücklichen Freigabe des historischen Grundmodells ein Vorschlag.
 
 ## Geplanter Twist
 
