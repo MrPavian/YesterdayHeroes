@@ -86,37 +86,50 @@ Er findet außerdem eine technische Signatur, die beweist, dass der digitale Ank
 
 **Charakterhöhepunkt:** Ein klassisches MacGyver-Rätsel: mehrere unscheinbare Gegenstände, ein nachvollziehbarer technischer Zusammenhang und eine Lösung, die erst im Rückblick genial wirkt.
 
-## 5. A-03 — Der Automatisierungsanker: Der falsche Geist
+## 5. A-03 — Der Automatisierungsanker: Geister in der Maschine
 
 **Säule:** Technologie, Robotik und Automatisierung  
-**Historischer Bezug:** Honda stellte im Dezember 1996 den humanoiden Forschungsroboter P2 vor. Das war ein wichtiger Meilenstein beim autonomen zweibeinigen Gehen.  
-**Vorgeschlagener Schauplatz:** Eine fiktive Robotik-Ausstellung und ein privates Forschungslabor in Japan, räumlich und organisatorisch getrennt von Honda.  
+**Historischer Bezug:** Honda stellte den humanoiden Forschungsroboter P2 am 20. Dezember 1996 vor. Das war ein wichtiger Meilenstein beim autonomen zweibeinigen Gehen.  
+**Vorgeschlagener Zeitraum:** 20.–21. Dezember 1996.  
+**Vorgeschlagener Schauplatz:** Unabhängiges, fiktives Robotik-Integrationslabor im Großraum Tokio / Raum Wako.  
 **Helden-Schwerpunkt:** Die Ghostbusters – Peter, Ray, Egon und Winston.
+
+### Historische Trennlinie
+
+Honda P2 ist ausschließlich der historische Hintergrund und der zeitliche Bezugspunkt. Das Spiel verlegt weder den Chronal-Anker in eine reale Honda-Anlage noch macht es Honda, seine Beschäftigten oder das P2-Projekt zu einem Teil der Verschwörung. Das Labor, Keihin Motion Systems, Meridian Robotics Integration, der M-6-Testroboter und der Motion Priority Controller sind vollständig erfunden.
+
+Der M-6 ist ein eigenständiger, technisch begrenzter Forschungsprototyp. Er besitzt keine menschenähnliche Intelligenz. Die auffälligen Bewegungen entstehen durch manipulierte Prioritäts- und Freigabedaten in einer zusätzlichen Steuerungsebene.
 
 ### Der Plan der Antagonisten
 
-Elon platziert den Chronal-Anker in einem erfundenen autonomen Steuerungsmodul, das in einer Demonstrationsreihe humanoider Roboter getestet wird. Das Modul soll Bewegungsdaten, Sensorik und Entscheidungsregeln bündeln. Später soll es als Blaupause für automatisierte Kontrollsysteme dienen.
+Elon platziert den Chronal-Anker in einem fiktiven **MOTION PRIORITY CONTROLLER (MPC)**. Dieser private Zusatzdienst soll Aufgaben und Freigaben in automatisierten Arbeitsabläufen priorisieren. Im Pilotbetrieb ist er nur mit dem M-6 und einigen Testanlagen verbunden. Später soll dieselbe Logik als Blaupause für größere Automatisierungsnetzwerke dienen.
 
-Die Demonstrationsroboter zeigen plötzlich unmögliche Bewegungsmuster: Sie reagieren auf Personen, bevor diese sich bewegen, wiederholen Abläufe, die niemand programmiert hat, und scheinen auf etwas Unsichtbares zu reagieren.
+Die gefährliche Funktion ist nicht, jeden Roboter einzeln fernzusteuern. Der Anker verändert, welche Aufgabe wann als wichtig gilt und welche Freigabe ein System erhält. Wer diese Prioritätsebene kontrolliert, kann Abläufe beeinflussen, ohne die zugrunde liegenden Maschinen selbst zu besitzen.
 
 ### Abenteuer- und Rätselansatz
 
-Die Ghostbusters werden gerufen, weil die Roboter angeblich „besessen“ sind.
+Die Ghostbusters werden gerufen, weil der M-6 nachts ohne nachvollziehbaren Auftrag Bewegungen ausführt und Kameras eine scheinbar geisterhafte Gestalt zeigen.
 
-- Egon stellt fest, dass die Messwerte zwar an eine paranormale Erscheinung erinnern, aber nicht zu einem gewöhnlichen Geist passen.
-- Ray untersucht die Bewegungsmuster und erkennt darin eine wiederkehrende Sequenz.
-- Peter versucht, aus der Situation Kapital zu schlagen, und verschlimmert beinahe die Lage.
-- Winston sorgt dafür, dass das Team die reale Gefahr für die Menschen im Labor nicht aus den Augen verliert.
+- **Peter** verschafft Zugang und hält Laborleitung, Presse und neugierige Besucher aus dem Gefahrenbereich.
+- **Ray** nutzt PKE-Messungen, um die Drei-Impuls-Signatur und den Weg zum verborgenen Modul zu finden.
+- **Egon** unterscheidet die normale Robotersteuerung von der künstlichen Prioritätsebene und berechnet eine sichere Isolation.
+- **Winston** sichert die Halle, übernimmt die mechanische Trennung und hält den Containment-Bereich stabil.
 
-Die Rätselkette verlangt, Bewegungsabläufe mit Messdaten des PKE-Meters abzugleichen, die Energiequelle des Roboters zu isolieren und die Containment-Technik so einzustellen, dass der Resonanzabdruck eingefangen werden kann, ohne den Roboter oder das Labor zu zerstören.
-
-**Wichtige Enthüllung:** Das eingefangene Phänomen ist kein klassischer Geist, sondern ein nicht-selbstständiger Chronal-Abdruck – eine Art zeitliche Aufzeichnung, die Informationen aus einer anderen Realität trägt. Damit erhalten die Ghostbusters den ersten konkreten Hinweis darauf, dass die Fernseh-Echos in der Herkunftsrealität eine reale Ursache haben.
+Die Rätselkette führt von einer gepufferten Zweitversorgung und verzögerten Kamerabildern über die Aufgabenprotokolle des MPC bis zu einer verborgenen Resonanzkammer. Dort müssen die vier Feldemitter korrekt aufgestellt, das Resonanzminimum abgewartet und die lokale Autorisierungsfunktion mechanisch getrennt werden.
 
 ### Ergebnis und Story-Funktion
 
-Der Anker verliert seine Resonanzkopplung. Die Ghostbusters liefern den entscheidenden Beleg, dass die Chronal-Resonanz nicht nur eine technische Messgröße, sondern ein Phänomen mit Auswirkungen auf Wahrnehmung und Information ist.
+Die lokale Steuerungsfunktion des Chronal-Ankers wird neutralisiert. Der Resonator selbst wird nicht zerstört, sondern fällt in den energiearmen **Standby-Zustand**. Der M-6 bleibt mit seiner lokalen Sicherheitssteuerung funktionsfähig. Die Ghostbusters sichern eine Messkopie des Drei-Impuls-Musters und liefern einen weiteren Beleg für die Chronal-Resonanz.
 
-**Charakterhöhepunkt:** Die Spieler müssen unterscheiden, was wirklich paranormal ist und was nur wie ein Geist aussieht. Die Lösung darf nicht einfach „Protonenstrahl auf alles“ lauten.
+Das vollständige Rätsel- und Episodendossier steht in [EP-A03 — GEISTER IN DER MASCHINE](../03_EPISODES/EP-A03_GEISTER_IN_DER_MASCHINE.md).
+
+## 5a. Kapitelübergreifende Vorbereitung: ALF und das NAV-7
+
+Das Figurenkapitel **BESUCH AUS DEM ALL** ist für Oktober 1995 vorgeschlagen und liegt damit vor A-03. ALF und Willie Tanner reparieren dort das **NAV-7**, ein Melmacianisches Navigations- und Phasenbeacon aus dem beschädigten Rest von ALFs Ankunftsschiff.
+
+Das Gerät ist kein Zeitreiseinstrument und kann keine Chronal-Anker eigenständig deaktivieren. Es erzeugt einen stabilen Referenzträger, misst wiederkehrende Signalimpulse und kann nach manueller Kalibrierung eine Gegenphase ausgeben. ALF sichert außerdem eine Kassettenaufzeichnung des Drei-Impuls-Musters. Diese Fähigkeiten bereiten seinen Beitrag im Ensemble-Finale vor, ohne ihm neue Fähigkeiten erst in A-05 zu verleihen.
+
+Das Kapitel steht in [EP-ALF — BESUCH AUS DEM ALL](../03_EPISODES/EP-ALF_BESUCH_AUS_DEM_ALL.md); ALFs Fähigkeiten und Grenzen sind in [alf.md](../02_CHARACTERS/alf.md) dokumentiert.
 
 ## 6. A-04 — Der Kommunikationsanker: Der Himmel hört mit
 
